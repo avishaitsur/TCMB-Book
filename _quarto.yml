@@ -39,10 +39,12 @@ book:
     - schema.qmd
     - disability-exposure.qmd
     - secondary-survey.qmd
+    - antibiotics.qmd
     - summary.qmd
     - references.qmd
 
 bibliography: references.bib
+csl: elsevier-vancouver.csl
 
 format:
   html:
