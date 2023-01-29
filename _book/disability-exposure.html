@@ -6,11 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="ד”ר אבישי צור, רס”ן">
-<meta name="author" content="ד”ר תומר תלמי, סרן">
-<meta name="author" content="ד”ר עופר אלמוג, סא”ל">
 
-<title>ספר הרפואה המבצעית</title>
+<title>ספר הרפואה המבצעית - 3&nbsp; השלמת הסקר הראשוני</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,7 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./intro.html" rel="next">
+<link href="./secondary-survey.html" rel="next">
+<link href="./schema.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -72,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">ספר הרפואה המבצעית</h1>
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">השלמת הסקר הראשוני</span></h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -97,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">הקדמה</a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">הקדמה</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -112,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./disability-exposure.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">השלמת הסקר הראשוני</span></a>
+  <a href="./disability-exposure.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">השלמת הסקר הראשוני</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -139,7 +137,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">תוכן עניינים</h2>
    
   <ul>
-  <li><a href="#הקדמה" id="toc-הקדמה" class="nav-link active" data-scroll-target="#הקדמה">הקדמה</a></li>
+  <li><a href="#הקדמה-ורקע" id="toc-הקדמה-ורקע" class="nav-link active" data-scroll-target="#הקדמה-ורקע"><span class="toc-section-number">3.1</span>  הקדמה ורקע</a></li>
+  <li><a href="#שלב-ה-d" id="toc-שלב-ה-d" class="nav-link" data-scroll-target="#שלב-ה-d"><span class="toc-section-number">3.2</span>  שלב ה – D</a></li>
+  <li><a href="#שלב-ה-e" id="toc-שלב-ה-e" class="nav-link" data-scroll-target="#שלב-ה-e"><span class="toc-section-number">3.3</span>  שלב ה-E</a></li>
+  <li><a href="#סיכום" id="toc-סיכום" class="nav-link" data-scroll-target="#סיכום"><span class="toc-section-number">3.4</span>  סיכום</a></li>
   </ul>
 </nav>
     </div>
@@ -148,60 +149,14 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">ספר הרפואה המבצעית</h1>
+<h1 class="title d-none d-lg-block"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">השלמת הסקר הראשוני</span></h1>
 </div>
 
 
-<div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Authors</div>
-  <div class="quarto-title-meta-heading">Affiliations</div>
-  
-    <div class="quarto-title-meta-contents">
-    <a href="https://avishaitsur.netlify.app/">ד”ר אבישי צור, רס”ן</a> <a href="https://orcid.org/0000-0002-1564-6395" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a>
-  </div>
-    <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            <a href="https://en.wikipedia.org/wiki/Medical_Corps_(Israel)">
-            חיל הרפואה, צבא ההגנה לישראל
-            </a>
-          </p>
-        <p class="affiliation">
-            <a href="https://eng.sheba.co.il/">
-            המרכז הרפואי שיבא תל השומר
-            </a>
-          </p>
-      </div>
-      <div class="quarto-title-meta-contents">
-    ד”ר תומר תלמי, סרן 
-  </div>
-    <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            <a href="https://en.wikipedia.org/wiki/Medical_Corps_(Israel)">
-            חיל הרפואה, צבא ההגנה לישראל
-            </a>
-          </p>
-      </div>
-      <div class="quarto-title-meta-contents">
-    ד”ר עופר אלמוג, סא”ל 
-  </div>
-    <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            <a href="https://en.wikipedia.org/wiki/Medical_Corps_(Israel)">
-            חיל הרפואה, צבא ההגנה לישראל
-            </a>
-          </p>
-      </div>
-    </div>
 
 <div class="quarto-title-meta">
 
-      
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">Sunday, January 29, 2023</p>
-    </div>
-  </div>
+    
   
     
   </div>
@@ -209,8 +164,32 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="הקדמה" class="level1 unnumbered">
-<h1 class="unnumbered">הקדמה</h1>
+<section id="הקדמה-ורקע" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="הקדמה-ורקע"><span class="header-section-number">3.1</span> הקדמה ורקע</h2>
+<p>תכלית הסקר הראשוני הוא באיתור מצבים מסכני חיים הדורשים התייחסות מיידית, טיפול במצבים אלו וכן איתור מצבים שיצריכו התייחסות במהלך סקר ההחייאה. בפרקים הקודמים בספר (“הסכמה – הטיפול בפצוע טראומה בשדה”, “הטיפול תחת אש ובטיחות הטיפול”, “נתיב אוויר – הערכה וטיפול”, “נשימה – הגישה לפציעות חזה בשדה” ו”החייאת בקרת נזקים בשדה”) תוארו הפעולות שמבוצעות בשלבים S-C להערכת מצבו של הפצוע וכן תוארו בהרחבה הפרוטוקולים שמתווים את דרך הטיפול בהתאם לממצאים שעולים. מרבית הפציעות מסכנות החיים יאותרו בשלבים אלו.</p>
+<p>על אף האמור לעיל, השלמת הסקר הראשוני כוללת את השלבים D ו-E. בשלבים אלו מבצעים הערכה נוספת ומעמיקה יותר של הפצוע במטרה לאתר פציעות מסכנות חיים שפוספסו וכאלו שעשויות לגרום לתחלואה ונכות קשים ולטפל בהתאם, כמו גם נערכים לפינוי הפצוע ומצמצמים אובדן חום הקשור בתמותה מוגברת.</p>
+</section>
+<section id="שלב-ה-d" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="שלב-ה-d"><span class="header-section-number">3.2</span> שלב ה – D</h2>
+<p>בשלב זה תתבצע קודם כל הערכה חוזרת של מצב ההכרה בסולם A.V.P.U. הערכת ההכרה בשלב זה מבוצעת תחת הבנה טובה יותר אודות מצבו של הפצוע ופציעותיו.</p>
+<p>הערכה נוספות שיש לבצע בשלב זה הינה של תנועות הגפיים וזאת כסימן לפגיעה מוחית ו/או פגיעה בעמוד השדרה. להערכה זו השפעה על אופן הקיבוע של הפצוע לאלונקה כפי שמפורט בפרק “פציעות עמ”ש”. לבסוף, בשלב זה מתבצעת הערכה של רמת הכאב של הפצוע, וזאת על מנת לטפל בהתאם במהלך סקר ההחייאה וכפי שמפורט בפרק “הטיפול בכאב בדרג השדה”.</p>
+</section>
+<section id="שלב-ה-e" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="שלב-ה-e"><span class="header-section-number">3.3</span> שלב ה-E</h2>
+<p>פספוס פציעות בקרב נפגעי טראומה היא תופעה שכיחה ומסוכנת. הפציעות המפוספסות עשויות להיות חסרות משמעות קלינית בשלב של טרום בית-החולים, אך לעיתים הן בעלות משמעות קלינית ואף עלולות להיות מסכנות חיים. במתאר טרום בית החולים אמצעי אבחון שונים, דוגמת דימות, אינם זמינים. הפשטה מלאה מכף רגל ועד ראש, הפיכה וחיפוש אקטיבי של פציעות (לרבות נעליים ואזורים מוצנעים) הן הפעולות החשובות ביותר למניעת פספוס פציעות במתאר טרום בית החולים. חשוב לזכור כי מבין סיבות המוות בר הצלה בפצועי טראומה, דימום הוא הסיבה המובילה, לכן במהלך ההפשטה יש לשים דגש על איתור ועצירה של דימומים.</p>
+<p>היפותרמיה מהווה חלק מ”משולש המוות” של הטראומה וקשורה בעלייה בתמותה. אובדן חום מהגוף בבני אדם מתרחש בארבעה מנגנונים עיקריים:</p>
+<ol type="1">
+<li><p>הולכה – אובדן חום ישיר ממגע עם עצם דומם (קרקע)</p></li>
+<li><p>הסעה – אובדן חום לאוויר או מים זורמים</p></li>
+<li><p>הקרנה – הקרנה של חום גוף לסביבה (ללא קשר למגע ישיר)</p></li>
+<li><p>הזעה (אידוי)</p></li>
+</ol>
+<p>לכן, תוך כדי הפשטת המטופל לאיתור פציעות נוספות, יש להעלות את המטופל לאלונקה (גם לצורך מוכנות לפינוי וגם לצורך הפרדתו מהקרקע) ולכסותו בשמיכה ובשמיכת מילוט. במידה וזו בנמצא מומלץ להניח שמיכת חימום אקטיבית Ready Heat (לא ישירות על הגוף, אופטימלית: שמיכה -&gt; Ready Heat -&gt; שמיכת מילוט). במידה וקיימת אינדיקציה לכריכת אגן, זו תבוצע תוך כדי העמסה לאלונקה.</p>
+<p>עד תום שלב זה יקבע המטפל את דחיפותו של הפצוע בהתאם לכלל הממצאים בסקר הראשוני. כאן המקום להעביר דיווח תואם ועדכני. הדיווח כולל פרטים אודות המתאר (ירי, פיצוץ, נפילה מגובה וכו’), אזורי הגוף העיקריים שנפגעו, הגדרת דחיפות, ביטוי פיזיולוגי (הלם עמוק, היפוקסיה, שינוי במצב הכרה וכיוצ”ב), מדדים חיוניים רלוונטיים, ודרישות סיוע (רפואי ופינוי). הדיווח בשלב הזה חשוב ביותר כיוון שהוא קורה לאחר כלל שלבי ההערכה של הפצוע. דיווח נכון מאפשר הקצאת משאבי פינוי תואמים. יתרה מכך, הדיווח מכין את הדרג הטיפולי הבא לקליטת הפצוע דבר שיאפשר טיפול רפואי טוב יותר. לבסוף, עצם הניסוח של דיווח רפואי סדור ואיכותי מסייע לצוות המטפל לבצע בקרה עצמית ולתת טיפול טוב יותר.</p>
+</section>
+<section id="סיכום" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="סיכום"><span class="header-section-number">3.4</span> סיכום</h2>
+<p>פרק זה עוסק בשלבים אשר “סוגרים” את הסקר הראשוני. סקר ראשוני טוב הוא זה שיניח את התשתית לטיפול מיטבי בפצוע. ביצוע מהיר ואיכותי של הפעולות המתוארות בפרק זה, לרבות: הערכה נוירולוגית גסה, הפשטה מלאה של הנפגע, סריקת פציעות, טיפול בפציעות מסכנות חיים, מניעת היפותרמיה, דיווח רפואי איכותי ופינוי, הוא מרכיב מרכזי בטיפול נכון בפצוע על מנת לשפר את סיכוייו לשרוד.</p>
 
 
 </section>
@@ -351,10 +330,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./schema.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">סכמת הטיפול בפצוע</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./intro.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">מבוא</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./secondary-survey.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">הסקר השניוני</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

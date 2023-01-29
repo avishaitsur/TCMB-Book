@@ -37,6 +37,8 @@ book:
     - index.qmd
     - intro.qmd
     - schema.qmd
+    - disability-exposure.qmd
+    - secondary-survey.qmd
     - summary.qmd
     - references.qmd
 
