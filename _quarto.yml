@@ -2,12 +2,41 @@ project:
   type: book
 
 book:
-  title: "TCMB-Book"
-  author: "Jane Doe"
-  date: "1/29/2023"
+  title: "ספר הרפואה המבצעית"
+  author:
+  - name: 'ד"ר אבישי צור, רס"ן'
+    orcid: 0000-0002-1564-6395
+    url: https://avishaitsur.netlify.app/
+    email: avishaitsur@gmail.com
+    attributes:
+      corresponding: boolean
+    affiliations:
+      - name: חיל הרפואה, צבא ההגנה לישראל
+        url: https://en.wikipedia.org/wiki/Medical_Corps_(Israel)
+        city: Ramat Gan
+        state: Israel
+      - name: המרכז הרפואי שיבא תל השומר
+        url: https://eng.sheba.co.il/
+        city: Ramat Gan
+        state: Israel
+  - name: 'ד"ר תומר תלמי, סרן'
+    affiliations:
+      - name: חיל הרפואה, צבא ההגנה לישראל
+        url: https://en.wikipedia.org/wiki/Medical_Corps_(Israel)
+        city: Ramat Gan
+        state: Israel
+  - name: 'ד"ר עופר אלמוג, סא"ל'
+    affiliations:
+      - name: חיל הרפואה, צבא ההגנה לישראל
+        url: https://en.wikipedia.org/wiki/Medical_Corps_(Israel)
+        city: Ramat Gan
+        state: Israel
+  date: today
+  date-format: full
   chapters:
     - index.qmd
     - intro.qmd
+    - schema.qmd
     - summary.qmd
     - references.qmd
 
@@ -16,6 +45,15 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    dir: rtl
+    toc: true
+    toc-title: תוכן עניינים
+    number-sections: true
+    fig-width: 6.5
+    fig-asp: 0.618
+    fig-align: center
+    fig-format: png
+    fig-dpi: 300
   pdf:
     documentclass: scrreprt
 

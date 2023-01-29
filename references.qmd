@@ -1,4 +1,4 @@
-# References {.unnumbered}
+# מקורות {.unnumbered}
 
 ::: {#refs}
 :::
