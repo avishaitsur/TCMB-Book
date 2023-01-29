@@ -2,6 +2,8 @@ project:
   type: book
 
 book:
+  reader-mode: true
+  cover-image: TCMB logo.jpeg
   title: "ספר הרפואה המבצעית"
   author:
   - name: 'ד"ר אבישי צור, רס"ן'
