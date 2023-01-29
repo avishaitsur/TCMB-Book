@@ -4,6 +4,7 @@ project:
 book:
   reader-mode: true
   cover-image: TCMB logo.jpeg
+  cover-image-alt: The logo of the Israel Defense Forces Medical Corps Trauma and Combat Medicine Branch 
   title: "ספר הרפואה המבצעית"
   author:
   - name: 'ד"ר אבישי צור, רס"ן'
