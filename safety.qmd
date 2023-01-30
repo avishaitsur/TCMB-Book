@@ -1,0 +1,6 @@
+```{mermaid}
+graph TD
+    A(Return fire<br/>Acheive fire superiority<br/>Operational report) --> C[Pull the casaulty to a cover<br/>Control major bleeding<br/>Basic Airway Protection<br/>Medical Report]
+    C --> F[Evacuate casualty to safety]
+    F --> G(Treat according to protocol and injuries<br/>Evacuate)
+```

@@ -165,7 +165,7 @@
     "href": "antibiotics.html#פרוטוקול",
     "title": "5  הטיפול האנטיביוטי בשדה",
     "section": "5.2 פרוטוקול",
-    "text": "5.2 פרוטוקול\n\n\n\n\n%%{init: {'theme':'default'}}%%\ngraph TD\n    A([A penetrating injury]) --> B[Rinse and dress]\n    B --> C{<b>Time to hospital > 1h</b>}\n    C --> |No|D([No need for antibiotics])\n    C --> |Yes|E{<b>Penetrating abdominal<br/>or head injury?</b>}\n    E --> |No|F([IV Ceftriaxone 2g])\n    E --> |Yes|G([IV Ceftriaxone 2g<br/>IV Metronidazole 500mg])"
+    "text": "5.2 פרוטוקול\n\n\n\n\n%%{init: {'theme':'default'}}%%\ngraph TD\n    A([A penetrating injury]) --> B[Rinse and dress]\n    B --> C[[<b>Time to hospital > 1h</b>]]\n    C ---> |No|D([No need for antibiotics])\n    C --> |Yes|E[[<b>Penetrating abdominal<br/>or head injury?</b>]]\n    E --> |No|F([IV Ceftriaxone 2g])\n    E --> |Yes|G([IV Ceftriaxone 2g<br/>IV Metronidazole 500mg])\n\n\n\n\n\nפרוטוקול מתן אנטיביוטיקה"
   },
   {
     "objectID": "antibiotics.html#ביאור-הפרוטוקול",

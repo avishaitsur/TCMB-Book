@@ -11,12 +11,13 @@
 ## פרוטוקול
 
 ```{mermaid}
+%%| fig-cap: "פרוטוקול מתן אנטיביוטיקה"
 %%{init: {'theme':'default'}}%%
 graph TD
     A([A penetrating injury]) --> B[Rinse and dress]
-    B --> C{<b>Time to hospital > 1h</b>}
-    C --> |No|D([No need for antibiotics])
-    C --> |Yes|E{<b>Penetrating abdominal<br/>or head injury?</b>}
+    B --> C[[<b>Time to hospital > 1h</b>]]
+    C ---> |No|D([No need for antibiotics])
+    C --> |Yes|E[[<b>Penetrating abdominal<br/>or head injury?</b>]]
     E --> |No|F([IV Ceftriaxone 2g])
     E --> |Yes|G([IV Ceftriaxone 2g<br/>IV Metronidazole 500mg])
 ```
