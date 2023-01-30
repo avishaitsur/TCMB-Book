@@ -15,9 +15,9 @@
 %%{init: {'theme':'default'}}%%
 graph TD
     A([A penetrating injury]) --> B[Rinse and dress]
-    B --> C[[<b>Time to hospital > 1h</b>]]
+    B --> C{{Time to hospital > 1h}}
     C ---> |No|D([No need for antibiotics])
-    C --> |Yes|E[[<b>Penetrating abdominal<br/>or head injury?</b>]]
+    C --> |Yes|E{{Penetrating abdominal<br/>or head injury?}}
     E --> |No|F([IV Ceftriaxone 2g])
     E --> |Yes|G([IV Ceftriaxone 2g<br/>IV Metronidazole 500mg])
 ```
