@@ -38,12 +38,26 @@ book:
   date-format: full
   chapters:
     - index.qmd
-    - intro.qmd
     - schema.qmd
-    - disability-exposure.qmd
-    - secondary-survey.qmd
-    - antibiotics.qmd
-    - summary.qmd
+    - safety.qmd
+    - airway.qmd
+    - chest.qmd
+    - rdcr.qmd
+    - disability_exposure.qmd
+    - resucitation.qmd
+    - MCE.qmd
+    - loss_of_vital_signs.qmd
+    - secondary_survey.qmd
+    - pfc.qmd
+    - pain.qmd
+    - infections.qmd
+    - tbi.qmd
+    - eyes.qmd
+    - MSK.qmd
+    - pediatrics.qmd
+    - vascular_access.qmd
+    - crush.qmd
+    - canine.qmd
     - references.qmd
 
 bibliography: references.bib
@@ -56,13 +70,9 @@ format:
     toc: true
     toc-title: תוכן עניינים
     number-sections: true
+    number-depth: 1
     fig-width: 6.5
     fig-asp: 0.618
     fig-align: center
     fig-format: png
     fig-dpi: 300
-  pdf:
-    documentclass: scrreprt
-
-editor: visual
-

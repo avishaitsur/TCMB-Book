@@ -1,0 +1,116 @@
+# מניעת זיהומים
+
+## עיקרי העדכונים: 
+
+- 23.12.20:
+    - שינוי מינןן Metronidazole - יינתן במינון 500 מ"ג שלוש פעמים ביום.
+    - הוספת מינוני ילדים.
+
+## תוכן עניינים
+
+**הקדמה ורקע**
+
+**פרוטוקול**
+
+**ביאור הפרוטוקול** 
+- **פרק א: מיקרוביולוגיה**
+- **פרק ב': בחירת התכשיר האנטיביוטי**
+- **פרק ג': תהליך קביעת מדיניות מתן האנטיביוטיקה** 
+
+**סיכום ודגשים**
+
+**ביבליוגרפיה ומקורות**
+
+## הקדמה ורקע
+זיהום פציעות הוא גורם משמעותי לתחלואה ולתמותה בקרב נפגעים בשדה הקרב, ונחשב לאחת הסיבות החשובות למוות בר-מניעה. כשליש מפצועי צבא ארה"ב בעיראק ובאפגניסטן סבלו מסיבוך זיהומי כאשר ספסיס גרם ל- 2%-9% ממקרי המוות בר-המניעה והיווה את הסיבה הרביעית בשכיחותה למוות מסוג זה. בצבא בריטניה שיעור פצועים דומה סבל מזיהומים, מהם 84% סבלו מזיהום פצע ו- 38% אף פיתחו ספסיס.
+
+פציעות בשדה הקרב הן כר פורה לזיהום, וזאת בעיקר מהסיבות הבאות: (א) פגיעה של שלמות העור וחשיפת הרקמות שתחתיו לסביבה החיצונית; (ב) חדירת גופים זרים מזוהמים; (ג) פגיעה בזילוח ונמק של איברים; (ד) פגיעה באיברים חלולים הגורמת לכניסה של מיקרואורגניזמים לאזורים סטריליים; (ה) עיכוב בטיפול דפניטיבי.
+
+עדויות ליתרון בטיפול אנטיביוטי מוקדם בפצועים בשדה הקרב, בעיקר כאשר הטיפול הניתוחי מתעכב, אפשר למצוא כבר בתקופת מלחמת-העולם השנייה. עבודות פרה-קליניות הצביעו על כך שמתן אנטיביוטיקה מוקדמת, בעיקר בשעות הראשונות לאחר הפציעה, הפחיתה שיעור סיבוכים זיהומיים. נתונים שנאספו בצה"ל במלחמת יום הכיפורים בשנת 1973 הדגימו שיעור זיהומים נמוך יחסית, שיוחס לטיפול אנטיביוטי בטווח של 30 עד 60 דקות מרגע הפציעה. בטראומה במתאר האזרחי מספר עבודות רטרוספקטיביות הדגימו גם כן יתרון במתן מוקדם של אנטיביוטיקה. 
+
+## פרוטוקול הטיפול האנטיביוטי בשדה הקרב 
+
+****************** תרשים 
+## ביאור הפרוטוקול
+
+### פרק א': מיקרוביולוגיה
+באופן גס, ניתן לחלק את הקונטמינציה של הפצע למוקדמת ומאוחרת: **בקונטמינציה המוקדמת** חשוב להבדיל בין החיידקים  הקטלניים בעלי הפוטנציאל ליצור זיהום חודר ומסכן חיים לבין כאלה שלא. החיידקים הקטלניים כוללים חיידקים גרם-חיוביים פיוגניים, חיידקים ממשפחת ה- Clostridia  וסטרפטוקוקים אנאירוביים. חיידקי ה- Clostridiaהם המשמעותיים ביותר, שכן חיידקים ממשפחה זו עשויים להוביל  ל- Gas Gangrene ולטטנוס. מהחיידקים הגרם-חיוביים Streptococcus pyogenes  ו- Staph. aureus הם המשמעותיים ביותר. Staph. aureus הוא גורם שכיח לזיהום פצע ועצם לאחר טראומה, ומבין החיידקים הווירולנטיים הוא היה הנפוץ ביותר בתרביות פצע שנלקחו מפצועים מצבא ארה"ב בעיראק מייד עם הגעתם לבית החולים; **קונטמינציה מאוחרת** מוגדרת ככזו הנרכשת במתקנים הרפואיים בהם מטופל הפצוע, בדומה לזיהומים נוזוקומיאליים בבתי החולים. מספר חיידקים שנמצאו כמזהמים משניים שכאלה: Pseudomonas aeruginosa, Acinetobacter baumannii,  Enterobacteriaceae  ו- Staph. aureus. ראוי לציון כי במערכות האחרונות בעיראק ואפגניסטן תוארו גם זיהומים חודרניים של פטריות.
+
+פקטורים רבים הקשורים בפציעות בשדה הקרב תורמים למעבר משלב הקונטמינציה המוקדמת לשלב הזיהום, ביניהם ראוי לציין את מידת האיסכמיה והנמק הרקמתי, את מידת ההלם ואת הירידה בתנגודת החיסונית21. הרציונל העומד בבסיס הטיפול האנטיביוטי בנקודת הפציעה הוא מיגורם של הקונטמיננטים המוקדמים, ובעצם כך מניעת סיבוכים זיהומיים שתביא להפחתת  שיעור המוות בר-המניעה והתחלואה הזיהומית הקשה (אוסטאומייליטיס, מורסות ועוד).
+
+### פרק ב': בחירת התכשיר האנטיביוטי 
+בעת בחירת האנטיביוטיקה האידאלית לטיפול בפצועים בשדה, יש להתחשב בשורה של פרמטרים:
+1. **יעילות** מוכחת כנגד החיידקים הרלוונטיים למניעת זיהום בפצע.
+2. **טווח פעילות צר** ככל האפשר – האנטיביוטיקה נדרשת לכסות את החיידקים הקונטמיננטים המוקדמים, במיוחד את אלו בעלי הפוטנציאל הקטלני. 
+3. **ריכוז אנטיביוטיקה גבוה בפצע** – דרושה יכולת דיפוזית נאותה של האנטיביוטיקה בכדי שתתרכז באזור הפציעה כאשר מדובר ברקמה פגועה. כדי שניתן יהיה להשיג מטרה זו, המינון הניתן הוא לרוב המינון הבטוח הגבוה ביותר. 
+4. **זמן מחצית חיים ארוך –** חיוני בכדי להוריד את מספר המנות הדרושות לטיפול, בעיקר אם הזמן עד להגעת הנפגע לטיפול דפיניטיבי ארוך.
+5. **אפשרויות מתן מגוונות** – לפצועים שנבצר מהם ליטול טיפול פומי (מחוסרי הכרה, שוק, פציעת בטן) קיימת עדיפות לתכשיר המאפשר טיפול בהזרקה תוך- ורידית/שרירית/גרמית.
+6. **שיקולים לוגיסטיים** – זמן מדף ארוך ככל האפשר, עמידות בתנאי אקלים מגוונים וקשים והתחשבות בהתניידות הכוחות (עדיף שמשקל התכשיר ונפחו לא יכבידו על הכוחות המצוידים בו).
+7. **תופעות לוואי** – האנטיביוטיקה צריכה להיות בעלת פרופיל טוקסיות נמוך עם מיעוט תופעות לוואי.
+
+### פרק ג': תהליך קביעת מדיניות מתן האנטיביוטיקה
+תהליך בחירת התכשירים האנטיביוטיים לפצוע בשדה, עוברים שינויים תמידיים.
+
+לאחרונה בוצע תהליך שינוי מדיניות הטיפול מסוג זה במס' שלבים:
+1. סקירת ספרות נרחבת בענף רפואה מבצעית. 
+2. כינוס ועידת מומחים בינואר 2017 (שמות המשתתפים מפורטים בנספח א'). 
+
+הוועדה גיבשה את המסקנות הבאות:  
+1. יש מקום לטיפול אנטיביוטי בנקודת הפציעה, בעיקר במתארים בהם הפינוי הרפואי צפוי להתעכב. זאת על אף היעדר מחקרים מקיפים בנושא. מטרת הטיפול האנטיביוטי בשדה היא להוריד את העומס החיידקי באיזור הפציעה, ובכך להפחית את הפוטנציאל לתמותה מוקדמת מספסיס ולמנוע זיהומים בפצע. 
+2. צפלוספורינים בעלי כיסוי טוב של חיידקים גרם-חיוביים וכיסוי משתנה של גרם- שליליים ואנאירובים ע"פ התכשיר הנבחר. הספרות המדעית מעידה על יעילותם במניעת זיהומים במתאר קדם-ניתוח ובטראומה. Ceftriaxone הוא בעל פעילות טובה נגד המחוללים הרלוונטיים עם זמן מחצית ארוך במיוחד. יתר על כן, התכשיר מסופק בפלקונים קטנים, זמן המדף שלו ארוך יחסית וניתן לתת אותו בהזרקה מהירה תוך- ורידית ותוך-שרירית.
+3. הוספת Metronidazole לצורך כיסוי חיידקים אנאירובים גרם-שליליים במקרים של פציעת בטן ומוח חודרות.
+4. לאחר שהובאו בחשבון כלל השיקולים ועל בסיס המוצג בפרוטוקול שהוצג לעיל, גובשו ההנחיות המעודכנות לטיפול אנטיביוטי בשדה:
+5. שטיפה וניקוי של הפצע הם שלב חיוני במניעת זיהומים.
+6. טיפול אנטיביוטי צריך להינתן בפציעות חודרות במקרים בהם הפינוי צפוי להתעכב מעבר לשעה. שטיפה, ניקוי וחבישה של הפצע צריכים להתבצע כמקובל ללא קשר לזמן הפינוי.
+7. בכל סוגי הפציעות יש לטפל תוך ורידית ב- Ceftriaxone 2gr: 2 ויאלים (פלקונים עם אבקה) המהולים כל אחד ב-10 מ"ל  מים להזרקה ב- IV push של 2-4 דקות לפחות פעם ב 24 שעות. ניתן לתת את התרופה IM (תוך-שרירית) בשתי זריקות נפרדות, של 1 גרם מהול ב-3.5 מ"ל מים להזרקה. **מומלץ שלא לטפל IM בפצוע הסובל מהלם**, שכן אז הספיגה נחותה משמעותית. בילדים, יינתן Ceftriaxone במינון 100 מ"ג/ק"ג עד מקסימום של 2 גר', פעם ביום.
+8. בכל מקרה חל איסור למהול את התרופה עם תמיסת Hartmann (Ringer Lactate). 
+9. לפציעות בטן וראש חודרות נדרשת תוספת של Metronidazole 500mg תוך-ורידית. במקרה של עיכוב בפינוי מעבר ל-8 שעות, יש להמשיך טיפול ב-Metronidazole 500mg בכל 8 שעות.  בילדים, יינתןMetronidazole  במינון 10 מ"ג/ק"ג שלוש פעמים ביום.
+
+## סיכום
+מניעת זיהומים, וכחלק מזה הטיפול האנטיביוטי, בפצועי טראומה הסובלים מפציעה חודרת הוא מרכיב חשוב בטיפול במהלך הסקר השניוני, זאת בפרט כאשר צפוי זמן פינוי ממושך. התאמת התכשירים האנטיביוטיים כוללת מגוון שיקולים. הפרוטוקול הצבאי מאפשר מתן מענה אנטיבקטריאלי הולם למניעת זיהומי פצע וההשלכות החמורות שעלולות להתלוות אליהם.
+
+
+
+## ביבליוגרפיה ומקורות
+<div dir="ltr">
+
+1. Kotwal RS, Montgomery HR, Kotwal BM, Champion HR, Butler FK, Jr., Mabry RL, et al. Eliminating preventable death on the battlefield. Arch Surg. 2011;146(12):1350-8.
+
+2. Murray CK, Wilkins K, Molter NC, Yun HC, Dubick MA, Spott MA, et al. Infections in combat casualties during Operations Iraqi and Enduring Freedom. J Trauma. 2009;66(4 Suppl):S138-44.
+3.	Holcomb JB, McMullin NR, Pearse L, Caruso J, Wade CE, Oetjen-Gerdes L, et al. Causes of death in U.S. Special Operations Forces in the global war on terrorism: 2001-2004. Ann Surg. 2007;245(6):986-91.
+4.	Blyth DM, Yun HC, Tribble DR, Murray CK. Lessons of war: Combat-related injury infections during the Vietnam War and Operation Iraqi and Enduring Freedom. J Trauma Acute Care Surg. 2015;79(4 Suppl 2):S227-35.
+5.	Parker PJ. Pre-hospital antibiotic administration. J R Army Med Corps. 2008;154(1):5-6; discussion -9.
+6.	Dufour D, Jensen SK, Owen-Smith M, Salmela J, Stening GF, Zetterström B. Surgery for victims of war. 1998.
+7.	Poole L. Army progress with penicilin. British Journal of Surgery. 1944;32(125):110-1.
+8.	Mellor SG, Cooper GJ, Bowyer GW. Efficacy of delayed administration of benzylpenicillin in the control of infection in penetrating soft tissue injuries in war. J Trauma. 1996;40(3 Suppl):S128-34.
+9.	Tikka S. The contamination of missile wounds with special reference to early antimicrobial therapy. Acta Chir Scand Suppl. 1982;508:281-7.
+10.	Dahlgren B, Berlin R, Brandberg A, Rybeck B, Schantz B, Seeman T. Effect of benzyl-pencillin on wound infection rate and on the extent of devitalized tissue twelve hours after infliction of experimental missile trauma. Acta Chir Scand. 1982;148(2):107-12.
+11.	Burke JF. The effective period of preventive antibiotic action in experimental incisions and dermal lesions. Surgery. 1961;50:161-8.
+12.	Klein RS, Berger SA, Yekutiel P. Wound infection during the Yom Kippur war: observations concerning antibiotic prophylaxis and therapy. Ann Surg. 1975;182(1):15-21.
+13.	Jackson DS. Sepsis in soft tissue limbs wounds in soldiers injured during the Falklands Campaign 1982. J R Army Med Corps. 1984;130(2):97-9.
+14.	Patzakis MJ, Wilkins J. Factors influencing infection rate in open fracture wounds. Clin Orthop Relat Res. 1989(243):36-40.
+15.	Al-Arabi YB, Nader M, Hamidian-Jahromi AR, Woods DA. The effect of the timing of antibiotics and surgical treatment on infection rates in open long-bone fractures: a 9-year prospective study from a district general hospital. Injury. 2007;38(8):900-5.
+16.	Bowater RJ, Stirling SA, Lilford RJ. Is antibiotic prophylaxis in surgery a generally effective intervention? Testing a generic hypothesis over a set of meta-analyses. Ann Surg. 2009;249(4):551-6.
+17.	Bratzler DW, Hunt DR. The surgical infection prevention and surgical care improvement projects: national initiatives to improve outcomes for patients having surgery. Clin Infect Dis. 2006;43(3):322-30.
+18.	Green A, Hutley E. Pre-Hospital Antibiotic Administration: A Response. Journal of the Royal Army Medical Corps. 2008;154(1):5.
+19.	Murray CK, Hospenthal DR, Kotwal RS, Butler FK. Efficacy of point-of-injury combat antimicrobials. J Trauma. 2011;71(2 Suppl 2):S307-13.
+20.	Brown KV, Murray CK, Clasper JC. Infectious complications of combat-related mangled extremity injuries in the British military. J Trauma. 2010;69 Suppl 1:S109-15.
+21.	Merens A, Rapp C, Delaune D, Danis J, Berger F, Michel R. Prevention of combat-related infections: antimicrobial therapy in battlefield and barrier measures in French military medical treatment facilities. Travel Med Infect Dis. 2014;12(4):318-29.
+22.	Lew DP, Waldvogel FA. Osteomyelitis. Lancet. 2004;364(9431):369-79.
+23.	Murray CK, Roop SA, Hospenthal DR, Dooley DP, Wenner K, Hammock J, et al. Bacteriology of war wounds at the time of injury. Mil Med. 2006;171(9):826-9.
+24.	Badikov VD, Krylov KM, Minnullin IP. [The microflora of gunshot and explosive mine wounds in victims delayed for a long time at the prehospital stage]. Voen Med Zh. 1996;317(9):34-7, 80.
+25.	Yun HC, Branstetter JG, Murray CK. Osteomyelitis in military personnel wounded in Iraq and Afghanistan. J Trauma. 2008;64(2 Suppl):S163-8; discussion S8.
+26.	Paolino KM, Henry JA, Hospenthal DR, Wortmann GW, Hartzell JD. Invasive fungal infections following combat-related injury. Mil Med. 2012;177(6):681-5.
+27.	Gilbert LJ, Li P, Murray CK, Yun HC, Aggarwal D, Weintrob AC, et al. Multidrug-resistant gram-negative bacilli colonization risk factors among trauma patients. Diagn Microbiol Infect Dis. 2016;84(4):358-60.
+28.	(NAEMT) NAoEMT. Tactical Combat Casualty Care Guidelines for Medical Personnel2015. Available from: http://www.naemt.org/docs/default-source/education-documents/tccc/072016-updates/tccc-guidelines-for-medical-personnel-160603.docx?sfvrsn=2.
+29.	Hospenthal DR, Murray CK, Andersen RC, Bell RB, Calhoun JH, Cancio LC, et al. Guidelines for the prevention of infections associated with combat-related injuries: 2011 update: endorsed by the Infectious Diseases Society of America and the Surgical Infection Society. J Trauma. 2011;71(2 Suppl 2):S210-34.
+30.	Bennett JE, Dolin R, Blaser MJ. Mandell, Douglas, and Bennett's principles and practice of infectious diseases. Eighth edition. ed. Philadelphia, PA: Elsevier/Saunders; 2015. 2 volumes p.
+31.	Brooks GF, Butel JS, Morse SA. Jawetz, Melnick, & Adelberg's Medical Microbiology: Lange Medical Books/McGraw-Hill, Medical Pub. Division; 2004.
+32.	Hidron AI, Edwards JR, Patel J, Horan TC, Sievert DM, Pollock DA, et al. NHSN annual update: antimicrobial-resistant pathogens associated with healthcare-associated infections: annual summary of data reported to the National Healthcare Safety Network at the Centers for Disease Control and Prevention, 2006-2007. Infect Control Hosp Epidemiol. 2008;29(11):996-1011.
+33.	Bratzler DW, Dellinger EP, Olsen KM, Perl TM, Auwaerter PG, Bolon MK, et al. Clinical practice guidelines for antimicrobial prophylaxis in surgery. Surg Infect (Larchmt). 2013;14(1):73-156.
+34.	Patzakis MJ, Bains RS, Lee J, Shepherd L, Singer G, Ressler R, et al. Prospective, randomized, double-blind study comparing single-agent antibiotic therapy, ciprofloxacin, to combination antibiotic therapy in open fracture wounds. J Orthop Trauma. 2000;14(8):529-33.
+35. Uptodate: Metronidazole (systemic): Pediatric drug information, available online: https://www.uptodate.com/contents/metronidazole-systemic-pediatric-drug-information?search=metronidazole&source=panel_search_result&selectedTitle=2~145&usage_type=panel&display_rank=2#F8771168
+36. Uptodate: Ceftriaxone: Pediatric drug information
+, available online: https://www.uptodate.com/contents/ceftriaxone-pediatric-drug-information?search=ceftriaxone&source=panel_search_result&selectedTitle=2~148&usage_type=panel&kp_tab=drug_pediatric&display_rank=1#F148227
+
+</div>

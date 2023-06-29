@@ -1,0 +1,374 @@
+# ניהול נתיב אוויר
+
+**עיקרי העדכונים:**
+
+-   5/22
+
+1.  אלגוריתם לשימוש באמצעי סופראגלוטי (ביחידות בהן מאושר השימוש)
+2.  הבהרה לגבי השימוש בחמצן בטראומה
+3.  דגשים לשימוש בוידאו לרינגוסקופ
+4.  עדכונים וחידודים לגבי הטכניקות השונות להשגת שליטה על נתיב אוויר כולל תמונות
+
+-   19/07/2021
+
+1.  בהלם עמוק יש להפחית בחצי את המינון של תרופות האינדוקציה.
+2.  חידודים לגבי הטכניקה של ביצוע קוניוטומיה.
+
+-   01.2019
+
+1.  חיחידוד ההתוויות לטיפול דפיניטיבי בנתיב אוויר, כך שיבוצע **במקרים בהם קיימת עדות קלינית לחסימת נתיב אוויר, לאחר מיצוי האופציות השמרניות.**
+2.  שינוי ערך הסף של הסטורציה המצריך התערבות מתקדמת בנתיב האוויר ל-88%.
+3.  עדכון השימוש באמצעים - 1.חובת מדידת סטורציה טרם ביצוע נתיב אוויר דפיניטיבי. 2.חובת וידוא מיקום נתיב אוויר דפיניטיבי על ידי ETCO2. 3.הוצאת השימוש בוואליום.
+
+### הקדמה ורקע
+
+### פרוטוקול
+
+-   **ההנחיות לניהול נתיב אוויר בפצועי טראומה**
+    -   **הערכת נתיב אוויר**
+    -   **מקרים שאינם התוויה לביצוע נתיב אוויר דפיניטיבי**
+    -   **התוויות נדירות לביצוע נתיב אוויר דפיניטיבי**
+-   **טכניקות אבטחת נתיב אוויר דפיניטיבי**
+    -   **שיטות לביצוע אינטובציה -- Intubation Methods**
+    -   **הנחיות לביצוע אינטובציה -- Intubation Indications**
+        -   **הכנות -Preparations**
+        -   **קיבוע הצוואר -- Cervical Immobilization**
+        -   **פרוצדורת האינטובציה -- Intubation Procedure**
+        -   **פרוצדורות לאחר אינטובציה -- Post-Intubation Procedures**
+        -   **קיבוע -- Tube Fixation**
+        -   **דגשים להנשמה -- Ventilation**
+        -   **בעיות בהנשמה -- Ventilation Malfunctions**
+    -   **פיום קנה- קוניוטומיה -- Cricothyroidotomy**
+        -   **התוויות לביצוע -- Cricothyroidotomy Indications**
+        -   **מגבלות הפרוצדורה -- procedure Limitations**
+        -   **התוויות לביצוע אלחוש -- Local anesthesia indication**
+        -   **טכניקות ביצוע -- Cricothyroidotomy Techniques**
+    -   **מדידת ETCO2 -- Measurement End Tidal CO2**
+    -   **זונדה -- Nasogastric Tube**
+    -   **דגשים - Summary**
+
+### סיכום
+
+### ביביליוגרפיה ומקורות
+
+**הקדמה ורקע**
+
+*חסימת נתיב אוויר היא הגורם השני השכיח ביותר למוות בר-מניעה אחרי הלם דימומי. בצבא ארה"ב כ-8% ממקרי המוות בר-המניעה נגרמו עקב פגיעה בנתיב האוויר. נתוני "צוק איתן" מלמדים שכ-8% מהפצועים טופלו באמצעות נתיב אוויר דפיניטיבי. על המטפל הבכיר בדרג השדה להעריך את נתיב האוויר, למצות את האופציות השמרניות עד תום, ולהימנע מהתערבויות מיותרות בדרכי האוויר. פרוצדורות מתקדמות לאבטחת נתיב אוויר עלולות לעכב פינוי, להוביל לסיבוכים קשים, ולהביא למותו של הפצוע. בספרות הרפואית, עדויות קליניות מועטות המלמדות על שיפור בעת ביצוע פרוצדורות אלו בפצועים, ומספר לא מבוטל של עבודות מהשנים האחרונות אף מראה נזק. פרוצדורות אלו דורשות מיומנות גבוהה ושמירת כשירות מתמשכת )50 אינטובציות בזמן ההכשרה, ועוד 20 בכל שנה לשמירת כשירות כדי להצליח ב-90%). על כן, על המטפל הבכיר, בזמן קצר ותחת לחץ, להעריך את מצב הפצוע ומנגנון הפציעה, ולזהות התדרדרות וסכנות הצפויות לנתיב האוויר, על מנת לבחור בדרך הכי פחות פולשנית לטפל בו.*
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*תמונה נתיב אוויר דפיניטיבי
+
+**פרוטוקול הערכת וניהול נתיב אוויר**
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*תמונה פרוטוקול הערכ וניהול נתיב אוויר
+
+**תרשים שימוש באמצעי סופראגלוטי**(ביחידות בהן השימוש מאושר)
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*תמונה של התרשים
+
+\### ההנחיות לניהול נתיב אוויר בפצועי טראומה בצה"ל
+
+-   הערכת נתיב האוויר
+
+מטרת הערכת נתיב האוויר היא זיהוי הפצועים להם נדרשת התערבות בנתיב האוויר בשטח. מצד אחד, חסימת נתיב אוויר עשויה לגרום לתמותה ברת מניעה. מצד שני, שיעור ההצלחה בביצוע אינטובציה נמוך, שיעור הסיבוכים גבוה, עצם ביצוע הפעולות גורם לעיכוב בפינוי והסטת תשומת הלב מפציעות מסכנות חיים אחרות. הערכת נתיב האוויר מסייעת להחליט מתי כן, וחשוב מכך מתי לא, לאבטח את נתיב האוויר באמצעות צנרור קנה (אינטובציה) או פיום קנה (קוניוטומיה). הערכת נתיב האוויר הראשונה תתבצע בתחילת הסבב הראשוני תוך כדי פנייה לפצוע, הסתכלות, הערכת קול גסה, והלבשת מד סטורציה. בנוסף, יש לבצע הערכת נתיב אוויר חוזרת טרם ביצוע של כל התערבות בנתיב האוויר, וכן הערכה תדירה של נתיב האוויר כחלק מהניטור הכולל תוך מתן תשומת לב לאמצעי הפינוי הזמינים, איכות הליווי, וזמני הפינוי הצפויים. הערכת נתיב האוויר מתחילה בפנייה לפצוע בשאלה על מצבו כגון "מה קרה?". בהסתכלות נחפש ראשית סימני חבלה בפנים ובצוואר, נתרשם מנשימת הפצוע: האם הפצוע נושם? כמו כן נשים לב לשימוש בשרירי עזר נשימתיים ו/או רטרקציית שרירים בין צלעיים. בהערכת הקול נחפש סטרידור, חרחורים, קולות נחירה. פצוע בהכרה מלאה אשר עונה בקול תקין, במשפטים מלאים, ללא קוצר נשימה, וללא קולות נוספים כגון חרחורים או צפצופים - קרוב לוודאי שאין לו בעיה מיידית בדרכי האוויר. פצוע הסובל מהסימנים שלעיל בהסתכלות ו/או בהערכת קולות הנשימה סובל מחסימת נתיב אוויר. לפצוע עם עדות ברורה לחסימה בנתיב האוויר בהסתכלות ו/או בהערכת קול גסה נבצע פתיחת פה, סילוק הפרשות וסקשן. לאחר מכן נעשירו בחמצן 100% (במידה ויש) במסיכה עם שקית העשרה. אם הכרתו ירודה, נחדיר מנתב אוויר פומי ונבצע דחיקת לסת ( ניתן לבצע הרמת סנטר כאשר אין חשד לפגיעה בעמוד שדרה צווארי. **רק במידה** ולאחר כל אלו הפצוע אפנאי ו/או עם סטורציה ≤ 88% נתחיל הנשמה באמבו ומסיכה.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*תמונה של טכניקות לביצוע
+
+הערכת נתיב אוויר חוזרת תכלול בנוסף לפנייה, הסתכלות, הערכת קול ומדידת סטורציה גם הערכה של זמן הפינוי והאופציה לליווי מטפל בכיר. לפצוע מונשם באמבו ומסיכה תבוצע פתיחת נתיב אוויר מתקדמת **אך ורק במידה ו:**(1) הסטורציה אינה משתפרת תחת הנשמה באמבו או (2) אין אפשרות לליווי מטפל בכיר וקיימת פגיעה משמעותית בנתיב אוויר. אם הסטורציה משתפרת, ויש אפשרות לליווי מטפל בכיר, אין לעכב פינוי ויש להמשיך הנשמה באמבו ומסיכה תוך כדי פינוי. כמו כן, יש להתחשב במשך הפינוי הצפוי כאשר יש יתרון בפינוי ממושך בהשגת נתיב אוויר דפיניטיבי.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*תמונה של הנשמה במסיכה
+
+**במרבית המקרים, אין צורך בביצוע נתיב אוויר דפיניטיבי בשטח.** מרבית הפצועים אינם סובלים מחסימה בנתיב האוויר. במקרים בהם קיימת חסימה, היא תיפתר לרוב באמצעים השמרניים: פתיחת נתיב אוויר באמצעות דחיקת לסת, שאיבת הפרשות ומתן חמצן (סקשן למשל). במקרים בהם קיימת חסימה אך מתקיימת נשימה והסטורציה (במידה וקיים לאחר חיבור לחמצן) \> 88%, אין צורך בנתיב אוויר דפיניטיבי. במידה ובוצעה פתיחת נתיב אוויר דפיניטיבי **יש לוודא את המיקום באמצעות מדידת ETCO2.** כאשר קיים מכשיר כמותי, מדידת ETCO2 תתבצע באמצעותו בעדיפות על פני הגלאי החד פעמי ( הנותן מדידה איכותית בלבד). בנוסף לעיל, ניתן להיעזר במכשיר סונאר לבדיקת מיקום הטובוס.
+
+-   מקרים אשר אינם מהווים התוויה לביצוע נתיב אוויר דפיניטיבי
+
+    -   **הלם דימומי אינו התוויה לביצוע נתיב אוויר דפיניטיבי.** בפצועי הלם חשיבות עליונה לטפל בעצירת הדימום, ובמתן מוצרי דם (פלסמה, דם מלא ו/או כדוריות דם אדומות דחוסות) בהתאם להנחיות המתאימות בפרק העוסק בהחייאת בקרת נזקים בשדה. פינויים המהיר של פצועים אלו הוא זה העשוי להציל את חייהם. הספרות הרפואית מרמזת על **החמרת מצבם** ועליה בסיכויי התמותה של פצועים אלו בעקבות ביצוע פרוצדורות מתקדמות במתאר טרום בית החולים ובעיקר אינטובציה, ככל הנראה בשל העלייה בלחץ בית החזה (לאור ההנשמה בלחץ חיובי אשר אינה פיזיולגית), המובילה לעליה ללחץ בבית החזה וירידה בהחזר הורידי וכן ככל הנראה על רקע העיכוב בפנוי.
+    -   **פגיעת ראש לכשעצמה אינה התוויה לביצוע נתיב אוויר דפיניטיבי.** בפצוע ראש קיימת חשיבות בשמירה על פרפוזיה מוחית אך אין הדבר אומר כי כל פצוע ראש עם GCS נמוך זקוק להתערבות דפינטיבית בנתיב האוויר. בפצוע ראש מעורפל הכרה הנושם בכוחות עצמו ושומר על סטורציה מעל ל 88% -- אין צורך בביצוע התערבות מתקדמת בנתיב האוויר. יש למצות את האמצעים השמרניים על פי האלגוריתם בדגש על העשרה מוקדמת בחמצן בריכוז גבוה לכל פצוע ראש עם GCS \<15 גם אם הסטורציה באוויר חדר נמדדת תקינה. ההחלטה האם להתערב בנתיב האוויר תבוצע על פי האלגוריתם במידה ואמצעים שמרניים יכשלו. כמו כן , במידה והפצוע הונשם אין מקום כיום לביצוע היפר וונטילציה בטרום בית החולים, יש לשמור על ערכי ETCO2 בין 35-40 מ"מ כספית.
+    -   **פציעת חזה אינה התוויה לביצוע נתיב אוויר דפיניטיבי.** במקרה של פציעת חזה בה עולה חשד לחזה-אוויר בלחץ, יש לטפל **תחילה** במצבים אלו באמצעות ניקור החזה (המקרה היחיד בו B לפני A) ומתן של נפח על פי ההנחיות של פרק פציעות החזה. לא רק שהנשמה בלחץ חיובי איננה הטיפול בפציעות אלו, אלא שזו אף עלולה להחמיר את מצב הפצועים. בפציעות חזה משמעותיות, בהן קיים חשד לחזה אוויר בלחץ, יש לבצע הערכה מחדש לאחר ביצוע ניקור ומתן הנפח ( בהתאם לפרק פגיעות חזה), ובמידה ועדיין קיימת התוויה לאינטובציה, ניתן לבצעה.
+
+    \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*תמונה של טקסט
+
+    -   שימוש בחמצן בניהול נתיב אוויר- **השימוש בחמצן מהווה כלי חשוב בניהול פתועים עם פגיעה או חשש לפגיעה בנתיב אוויר.** יש לעשות שימוש בחמצן בקרב פצועים עם דיספניאה, גם אם קלה, בפצועים עם פגיעת ראש , פצועים עם חשש לפגיעה בנתיב האוויר ופצועים הסובלים מהלם. נזכיר כי אין עדות לנזק בשימוש בחמצן בפצועי טראומה, בדגש על מתאר טרום בית חולים ובטווחי זמן שאינם ממושכים. לאור זאת, יש לנקוט בגישה ליברלית בהעשרה בחמצן בקרב פצועים, גם אם הסטורציה הראשונית שמורה.
+
+-   מקרים נוספים אשר מהווים התוויה לביצוע נתיב אוויר דפיניטיבי
+
+    -   **פצוע שאיננו נושם (אפנאי) יזדקק לסיוע נשימתי באמבו ומסיכה כבר בסקר הראשוני. ההחלטה לבצע התערבות דפיניטיבית תבוצע על פי האלגוריתם ( בכישלון בשמירה על רוויון חמצן באמצעים שמרניים).**
+    -   בפצוע ללא סימני חיים יש לפעול על פי האלגוריתם בפרק "סיום מאמצי ההחייאה וקביעת מוות לנפגע טראומה במתאר טרום בית החולים".
+    -   קיימים מס' מצבים בהם קיים איום מיידי על נתיב האוויר (IMpending airway obstruction):
+        -   כוויות בדרכי נשימה- יכולות להתבטא בפצוע הסובל מקול סדוק/צרוד מלווה בכוויות באזור הפנים והצוואר, שערות נחיריים חרוכות.
+        -   הרס אנטומיית הפנים עם קושי משמעותי בנשימה שאינו משתפר כאשר הפצוע מתיישב בעצמו
+        -   המטומה מתרחבת בצוואר
+
+בפצועים אלה, יש לנטר בקפידה ולהתערב מוקדם במידה ונצפית התדרדרות אשר אינה מגיבה לאמצעים שמרניים.
+
+\#### טכניקות אבטחת נתיב אוויר דפיניטיבי 1. **שיטות לביצוע אינטובציה:** 1. האינטובציה המאושרת היחידה היא אינטובציה אורו-טרכיאלית = צנרור קנה דרך הפה תוך שימוש באינדוקציה תרופתית. 2. שלבי הפעולה יהיו: Preoxygenation, Preparation, Premedication, Placement, Post-procedure tube confirmation 3. שימוש במשתקי שרירים בדרג השדה **אסור בתכלית האיסור** למעט בדרג ב', כאשר מדובר במטפלים העוסקים בניהול דרכי אוויר באופן יום יומי (מרדימים, רופאים מתחום הרפואה הדחופה).
+
+\##### 2. **הנחיות לביצוע אינטובציה:** 1. **הכנות:**
+
+```         
+1. האינטובציה היא "הפקה" שיש להיערך לקראתה היטב!
+2. הערכה: האם באמת יש צורך באינטובציה בשטח? האם קיימת התוויה אמיתית? האם מוצו כלל האופציות השמרניות?
+3. לעולם לא תבוצע אינטובציה ע"י רופא / פאראמדיק לבד! 
+- באינטובציה אידאלית לפחות שלושה מטפלים:     
+    - מטפל בכיר
+    - חובש שמגיש ציוד (סקשן, טובוס) ומבצע תמרון ע"ש סליק/ BURP (Backwards, Upwards, Rightward and Posterior pressure) על פי דרישה.
+    - חובש המנטר את הפצוע ומסייע לשמירה על עמוד שדרה צווארי.
+- בלית ברירה, ניתן להסתפק בשני מטפלים ( הגשת ציוד, סליק וניטור ע"י אותו חובש), אך יש להימנע מכך.
+4. יש לדאוג תמיד להכנת ציוד מקדימה לפני האינטובציה:
+    1. סקשן
+    2. מד ריווי חמצן + קפנומטר
+    3. בוג'י 
+    4. אמבו
+    5. חמצן
+    6. תרופות סדציה שאובות ומוכנות (מינונים בהמשך)
+    7. ערכת אינטובציה
+    8. ציוד לקוניוטומיה
+5. פרה-אוקסיגנציה חשובה ביותר לפני ביצוע האינטובציה. החמצון המקדים מעלה את ריכוז החמצן בריאות באופן משמעותי ומוריד את ריכוז ה-CO2 ובכך מאריך את משך הזמן של אפניאה ללא משמעות קלינית, ללא ירידה משמעותית ברוויון החמצן בדם. יש להכניס AW, להנשים עם אמבו המחובר לחמצן ושקית העשרה, תוך ניטור ריווי החמצן, למשך מספר דקות. יש להגיע לרמת ריווי חמצן גבוהה ככל האפשר. לרוב עדיף לאפשר נשימה ספונטנית של חמצן ולא להנשים באמבו לפני אינטובציה כדי שלא ננפח את הקיבה (פעולה שתגדיל את סכנת האספירציה). זאת כמובן, כל עוד נשמרת סטורציה תקינה והפצוע נושם כיאות.
+6.  יבוצע רק ניסיון אחד להחדרת מנתב אוויר. אם הפצוע פולט אותו יש להעריך מחדש את הצורך בנתיב אוויר דפיניטיבי. אין לבצע ניסיון נוסף להחדרת מנתב אוויר, וזאת כדי להימנע מהקאה ואספירציה.
+במידה וניתנו תרופות אינדוקציה לאינטובציה, ניתן להחדיר מנתב אוויר לאחר אובדן התגובה לכאב.
+```
+
+2.  **קיבוע הצוואר (MICI: Manual Inline Cervical Immobilization):**
+
+    1.  בכל טכניקות ההשתלטות על דרכי האוויר, נגרמת תנועה מסוימת של עמוד השדרה (עמ"ש) הצווארי. טכניקת השמירה על עמוד השדרה הצווארי (MICI) היא שיטה יעילה למניעת נזק נוירולוגי במקרים בהם יש חשד לפגיעה בעמש"צ.
+    2.  בחבלה חודרת לצוואר, הסיכוי להחמרת הנזק הנוירולוגי ע"י מניפולציה של הצוואר קטנה על כן לא נניח צווארון בחבלה חודרת ( ראה פרק פגיעות אורטופדיות).
+    3.  שמירה על עמוד השדרה הצווארי תהיה תפקידו של אחד מאנשי הצוות מתחילת הטיפול בפצוע, במשך כל שלבי האינטובציה ועד לקיבוע הצוואר באמצעות צווארון תקני. \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*תמונה
+
+תמונה 4 -- טכניקת ביצוע קיבוע הצוואר
+
+3.  **ביצוע האינטובציה:**
+    1.  **בניסיון הראשון מומלץ מאוד להשתמש בבוג'י. בניסיון שני חובה להשתמש בבוג'י.**
+        1.  הבוג'י הינו ה visual stylet (גייד) הנמצא בשימוש הרחב ביותר כיום, משחק תפקיד חשוב ומרכזי בפרוטוקולים של נתיב אוויר של ארגוני רפואה דחופה רבים בארץ ובעולם.
+        2.  החלקת המכוון לאורך קנה הנשימה יוצרת הרעדות עדינות (בעת מפגש קצה המכוון עם טבעות הקנה).
+        3.  **שימוש בבוג'י נקשר לשיעור הצלחה גבוה** ( מעל 90%) גם באינטובציות אשר הוגדרו כקשות. ללא שימוש בבוג'י, שיעור ההצלחה באינטובציה ראשונה נמוך מאוד (מתחת ל-50%).
+    2.  בעת שימוש בבוג'י, אין להכניס מכוון (guide) לתוך הטובוס.
+    3.  אם למרות הסכנות בחרנו לבצע אינטובציה ללא בוג'י, יש לשמן את המכוון, לוודא שאינו בולט דיסטלית, ולכופף את הקצה הפרוקסימלי שלו.
+    4.  סדציה תינתן לכל פצוע עם GCS חמש ומעלה! אין טעם או רווח במתן תרופות אינדוקציה לפצוע עם GCS מתחת ל-5 אלא אם קיימת נעילת לסתות.
+    5.  בפצוע מחוסר הכרה ללא החזר הקאה (gag reflex) שקיבל את ה-AW, אין צורך בתרופות הרדמה לפני הניסיון הראשון של האינטובציה, אפילו אם נושם ספונטנית. יש לבצע ניסיון אינטובציה בעדינות, ואם יש התנגדות - לתת אינדוקציה.
+    6.  שילוב הבחירה לאינדוקציה בצה"ל הוא מתן של Ketamine יחד עם Mizadolam.
+    7.  *המינון המומלץ של Ketamin*e במתן לוריד הוא 3-4 מ"ג לק"ג. קל יותר לזכור "חצי אמפולה" (250 מ"ג = 5 סמ"ק באמפולה בריכוז 50 מ"ג בסמ"ק, מינון המתאים לפצוע במשקל כ- 70 ק"ג). התחלת הפעולה הסדטיבית של הקטמין במתן לוריד נצפית רק לאחר 1-2 דק', ויש לחכות תוך המשך ביצוע חמצון מקדים.
+    8.  יש *להוסיף* דורמיקום (Midazolam) במינון 5 מ"ג בעת האינדוקציה. מינון אחזקה יהיה 1-1.5 מ"ג כל 15 דקות.
+    9.  משך הפעולה של הקטמין הוא 10-30 דק', ולכן לפצוע המונשם יש לחזור ולתת בולוסים של 25-50 מ"ג כל 15 דקות.
+    10. אחד היתרונות הבולטים של הקטמין בשימוש קדם בית-החולים היא האפשרות למתן IM (במינון של 8 מ"ג/ק"ג או "אמפולה ורבע"). במתן תוך שרירי יש לצפות להתחלת הפעולה לאחר 5-8 דק'. לציין כי מדובר באילוץ ונעדיף להשיג גישה למחזור הדם ( תוך חתירה מוקדמת לגישה תוך גרמית במידת הצורך).
+    11. **בהלם עמוק יש להפחית בחצי את המינון של תרופות האינדוקציה (קטמין ומידזולם)**
+    12. בעת הכנסת הלרינגוסקופ יש לדחוק את הלשון שמאלה, ולשאוף להרים את האפיגלוטיס על מנת לחשוף את מיתרי הקול. לעיתים ה-view לא יהיה מיטבי ובמצבים אלו מומלץ להשתמש בתמרון BURP.\*\*\*\*\*\*\*\*\*\*\*תמונה
+    13. ניתן לעיתים לשפר את הויזואליזציה של מיתרי הקול ע"י הזזת הגרון לאחור, למעלה וימינה של הפצוע (BURP). תמרון זה מבוצע בעזרת החובש המבצע תמרון ע"ש 'סליק' בידו האחת (לוחץ על הקריקואיד לסגור את הוושט), ועל סחוס התירואיד בכיוון הרצוי בידו השנייה. מומלץ שהמט"ב יבצע את ה סליק/ BURP בעצמו תוך כדי לרינגוסקופיה ואז יחליף עם החובש את האחיזה.
+    14. עומק ההחדרה המומלץ יהיה עד לעומק 23 ס"מ בקו השיניים העליונות (או זווית הפה) למבוגר. באשה יש להחדיר עד לעומק 21 ס"מ בלבד. החדרה עמוקה מדי תגרום להנשמה של ריאה אחת ('One lung intubation'). \*\*\*\*\*\*\*\* תמונה .
+    15. תיאור סכמטי של שלבים בביצוע אינטובציה \*\*\*\*\*\*\*\*\* תמונה
+4.  **שימוש בוידאו לרינגוסקופ:**
+
+\*\*\*\*\* תמונה
+
+כיום מס' מכשירי וידאו לרינגוסקופ המאושרים על ידי חיל הרפואה ביחידות שונות. שימוש בוידאו לרינגוסקופ יתבצע רק ביחידות בהן האמצעי מאושר. ההתוויות לשימוש בוידאו לרינגוסקופ זהות ללרינגוסקופיה ישירה והן על פי שיקול דעת המטפל ( האם לבצע לרינגוסקופיה ישירה או להתחיל עם וידאו). בכל מיקרה, בניסיון שני עם וידאו ( כמו בלרינגוסקופיה ישירה) יש לעשות שימוש בבוג'י.
+
+5.  **פעולות לאחר ביצוע האינטובציה:**
+
+    1.  לאחר ביצוע אינטובציה הפצוע יש לשקול חיבור למנשם ( במקרים בהם משך הפינוי ארוך), בהעדר מנשם -- יונשם באמבו. *אין להשאיר פצוע עם טובוס ללא הנשמה.*
+    2.  ישנה **רק דרך אחת** אובייקטיבית לוודא מיקום טובוס: קריאה אחידה של End-tidal CO2 למשך שלוש הנשמות רצופות. זאת בעדיפות באמצעות קפנומטר כמותי ובהיעדרו גלאי פחמן דו חמצני כימי חד פעמי.
+    3.  אמצעים משלימים ונסיבתיים הינם:
+        1.  ראייה של הטובוס עובר דרך מיתרי הקול
+        2.  האזנה בשלוש הנשמות- מעל האפיגסטריום, אקסילה שמאל ואקסילה ימין. אם נשמעת כניסת אוויר לקיבה יש להפסיק את ההנשמה.
+        3.  Fogging - הצטברות אדי מים בטובוס.
+        4.  קריאה רצופה של pulse oximetry.
+    4.  כאשר אנו מקבלים לידנו פצוע עם טובוס, השלב הראשון בטיפול (שלב ה- A), יהיה וידוא מיקום הטובוס, מתוך גישה של "כל טובוס נמצא בוושט עד שלא הוכח אחרת".
+
+6.  **קיבוע:**
+
+קיבוע הטובוס למקומו הוא שלב קריטי בטיפול בפצוע. *טובוס שלא יקובע כהלכה יישלף!* \*\*\*\*\*\*,תמונה
+
+7.  **דגשים להנשמה:**
+
+הנטייה הטבעית בהנשמה באמבו היא להנשים ביתר ולכן יש לבצע בקרה חוזרת ונשנית על קצב ונפח ההנשמה: הנשמה אחת כל 5 שניות (או 10-12 הנשמות בדקה) עד לעליית בית החזה, לשמירה על סטורציה תקינה וערך ETCO2 של 35-40 מ"מ כספית.
+
+8.  **בעיות בהנשמה או בחמצון לאחר האינטובציה:**
+
+את הסיבות השכיחות ניתן לסכם תחת הקיצור DOPE : ניתוק של הצנרת או רכיביה / טובוס שאינו במקום (**D**islodgement/Displacement), חסימת הטובוס (**O**bstruction) ע"י הפרשות או כיפוף, חזה-אוויר לא מאובחן (**P**neumothorax), או כשל בציוד (**E**quipment), כגון אמבו/מנשם לא תקין, בלונית לא מנופחת כראוי/מפוצצת, מחסור בחמצן וכו' .
+
+<div dir="rtl">
+
+3.  **Cricothyroidotomy(קוניוטומיה)**
+    1.  **התוויות**
+
+        1.  צורך בנתיב אוויר דפיניטיבי בהערכה חוזרת לאחר 2-3 כישלונות ביצוע אינטובציה (ראה תרשים).
+        2.  טראומה לפנים/צוואר עם חסימת נתיב אוויר ומצוקה נשימתית ללא יכולת לבצע אינטובציה. נדגיש כי בסכנה מיידית לנתיב האוויר וסיכויי הצלחה נמוכים באינטובציה ניתן לבצע קוניוטומיה ישירות.
+        3.  במקרה הנדיר של פציעת צוואר עם **קנה חשוף** ניתן להחדיר טובוס או קוניוטום ישירות אל הקנה.
+
+    2.  **מגבלות**
+
+        1.  ככלל, לא מבצעים בילדים מתחת לגיל 12 cricothyroidotomy ( ראה פרק 'ילדים').
+        2.  בשבר של הלרינקס הגורם לעיוות, וכשאין גישה לממברנה הקריקותירואידית לא ניתן לבצע קוניוטומיה, ומסוכן לנסותה. יש לעשות כל מאמץ להימנע מהצורך, כולל רכינת הפצוע לפנים והנשמה במסיכה.
+
+    3.  **התוויות לביצוע אלחוש:**
+
+        1.  אם הפצוע מחוסר הכרה ואינו מגיב לכאב אין צורך באלחוש מקומי.
+        2.  אם הפצוע בהכרה ויש קיפוח או התדרדרות נשימתית קרוב לוודאי שלא יהיה זמן לביצוע אלחוש.
+        3.  אם הפצוע בהכרה ושומר על סטורציה תקינה, **יש לוודא צורך** בביצוע נתיב אוויר דפיניטיבי ובייחוד קוניוטומיה, ובמידה ויש צורך, יש להסנין את שדה הניתוח באלחוש מקומי עם לידוקאין.
+
+    4.  **טכניקות ביצוע:**
+
+        1.  על הציוד לקוניוטוטמיה להיות מוכן כבר בזמן הכנת הציוד לאינטובציה.
+        2.  ביד הלא דומיננטית מייצבים את הלרינקס בין האגודל לאמה וממששים את האנטומיה עם האצבע. ביד השנייה מבצעים חתך אורכי בעור באורך 3-4 ס"מ עד חשיפת הממברנה. מבצעים חתך קטן בממברנה ( רוחבי) באמצעות הסקלפל -- יש להקפיד שלא לאבד את הפתח - אין להוציא את הסכין לפני החדרה של כלי אחר במקומו - בעדיפות בוז'י. במידת הצורך ניתן להרחיב את החור באמצעות פאן או עם ידית הסקלפל. במידה והוכנס בוז'י, יש להשחיל על גביו את הקוניוטום (לאחר הוצאת המוליך).
+
+        \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*תמונה של מיקום קוניוטומיה
+
+        3.  בהיעדר קוניוטום ייעודי יש להשתמש ב- tube מס' 6 מקוצר.
+        4.  במידה ולא נעשה שימוש בבוז'י, יש להחדיר את הקוניוטום עם המוליך. לאחר מכן יש לנפח את הבלונית ולקבע.
+        5.  נקודות כשל אפשריות:
+            1.  זיהוי האנטומיה עלול להיות קשה בשמנים ובחבלה לצוואר.
+            2.  במידה ונוציא כלי מהפתח (למשל סקלפל) לפני הכנסה של כלי אחר (למשל בוז'י) השכבות עלולות לנוע אחת על גבי השניה באופן שיגרום לאובדן הקשר עם חלל הקנה.
+            3.  אם חתכנו את ה- anterior jugular vein, עלול להיגרם דימום משמעותי, אשר ייעצר בד"כ באמצעות לחץ מקומי.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*תמונה של קוניוטומיה
+
+#### שימוש באמצעי סופראגלוטי
+
+-   השימוש באמצעים סופראגלוטיים (SGA- Supraglottic airway) מאושר לשימוש במס' יחידות מצומצם בצה"ל.
+
+-   יש לזכור שעל אף היותו אמצעי 'פשוט לשימוש' הוא מצריך היכרות מוקדמת, מיומנות וניסיון בהחדרתו. כמו כן, בשל היותו אמצעי סופראגולטי- הוא אינו אמצעי דפיניטיבי על כל המשתמע מכך: אינו מונע אספירציה ובעל סיכון גבוה יותר ל-displacement במיוחד במתארי טרום בית חולים ואף יותר במתארים בהם פצוע מועבר בין פלטפורמות פינוי שונות.
+
+-   אמצעי SGA יכולים להחליף את הקוניוטומיה כאמצעי rescue/ salvage לאחר כשלון בביצוע אינטובציה וכאשר אין יכולת להנשים את הפצוע באמצעות אמבו ומסיכה (ראה אלגוריתם) לפרק זמן קצוב.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* תמונה של טכניקה
+
+-   ל-SGA התוויות נגד לשימוש: אי יכולת לבצע פתיחת פה, חסימה מלאה של דרכי האוויר העליונות, ריבוי הפרשות או דמם משמעותי בדרכי הנשימה העליונות , חתך מלא של קנה הנשימה או צורך בהנשמה ממושכת.
+
+-   במקרה של כישלון בהכנסת SGA/ חוסר יכולת לחמצן לאחר SGA יש לבצע הערכה מחודשת. במידה ועדיין קיימת התוויה לנתיב אוויר דפיניטיבי יש להמשיך בביצוע קוניוטומיה.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*תמונה 12 נתיב אוויר
+
+-   תרשים השימוש ב-SGA מהווה המשך לתרשים ניהול נתיב אוויר ביחידות בהן האמצעי מורשה לשימוש.
+
+4.  **מדידת End Tidal CO2 (ETCO2)**
+
+הריכוז החלקי של CO2 באוויר הננשף ניתן למדידה, ומדד זה יכול לשמש לניטור רצוף של הפצועים. בתחילת הנשיפה יוצא ה- dead space בו ריכוז CO2 נמוך מאד. בהמשך מתחיל לצאת הגז האלוואולרי וריכוז ה- CO2 עולה. כאשר תפוקת הלב תקינה -- ETCO2 מלמד על מידת האוורור. רמות נמוכות שלו יהיו ביטוי להנשמת יתר, ורמות גבוהות ילמדו על הצורך בהגדלת קצב ההנשמה. השימוש העיקרי בניטור ETCO2 בשטח הוא וידוא מקום הטובוס: קריאה רציפה של ETCO2 מלמדת כי הטובוס נמצא בקנה (יש לשים לב כי עדיין תיתכן one lung intubation). כשהטובוס נמצא בוושט תיתכן קריאה נמוכה למשך מס' הנשמות ואז תרד לאפס. לכן, כאשר אין קריאה והמכשיר תקין ומחובר כהלכה תיתכנה מספר אפשרויות: 1. הטובוס בוושט. 2. הטובוס נסתם. 3. אין תפודת לב או תפוקת לב נמוכה- כלומר: הלם עמוק, דום לב או חזה אוויר בלחץ.
+
+**ניטור רצוף מאפשר מעקב אחר תקינות מערכת ההנשמה:** ירידה פתאומית תהיה ביטוי ליציאת הטובוס, נתק בצנרת ,דלף משמעותי או קריסה המודינמית. הנשמת יתר תבוא לידי ביטוי בירידה הדרגתית ( בעוד שהנשמת חסר- היפו וונטילציה תתבטא בעליה הדרגתית). **לסיכום:** יש לחבר כל פצוע מונשם לקפנומטר/קפנוגרף, שבראש ובראשונה ישמש לווידוא מיקום הטובוס וניטור רצוף של תקינות מערכת ההנשמה. כמו כן, יוכל לסייע במניעת היפרוונטילציה קשה אשר עלולה להיות תוצאת ההנשמה.
+
+5.  **ניקוז קיבה באמצעות זונדה:**
+
+הכנסת זונדה צריכה להתבצע **בסקר שניוני** לכל פצוע מונשם עם משך פינוי ממושך ( ראה פרק PFC/ סקר שניוני). המטרה העיקרית של הזונדה היא מניעת הרחבת הקיבה (acute gastric dilatation) שעלולה לגרום להפרעות בנשימה והשפעות המודינמיות לא רצויות, כמו גם לעודד הקאות ולסכן באספירציה. ככלל, הכנסת זונדה אינה פעולה מצילת חיים ויש להכניס זונדה רק אם יש לכך זמן, והפעולה קלה ומתבצעת בצורה חלקה. בצה"ל, זונדה תוחדר **דרך הפה** (ישירות, או דרך מנתב אוויר אם הוכנס) בזמן המתנה לפינוי או תוך כדי תנועה, **כאשר סיימנו לבצע פעולות חיוניות אחרות.** לאחר הכנסת זונדה רצוי לבצע שאיבה על מנת להגדיל את האפקטיביות של ריקון הקיבה. בהקשר זה נזכיר כי פציעת בטן לכשעצמה, בפצוע שאינו מונשם, אינה מהווה התוויה להחדרת זונדה.
+
+6.  **אינטובציה בילדים ופעוטות:**
+
+אינטובציה בילדים ופעוטות:
+
+i.  התאמת גודל הטובוס על פי הנוסחא \[גיל חלקי 4, ועוד 4 (בשנים)\], או לפי רוחב אצבע 5 של הילד.
+
+ii. מינון התרופות יקבע בעדיפות על פי סרגל החייאה (Breslow). במידה ואינו זמין, לצורך אינדוקציה יש להשתמש במינונים של קטמין 2-3 מ"ג לק"ג IV, דורמיקום (Midazolam) 0.1 מ"ג לק"ג IV עד מינון מקסימלי של 5 מ"ג. כך, תינוק במשקל 10 קילוגרם יקבל 20 מ"ג קטמין ו0.5 מ"ג דורמיקום.
+
+iii. יש להקפיד להכניס את הטובוס כ2-3 ס"מ מעבר למיתרי הקול - לא פחות ולא יותר. ניתן להעריך את עומק הטובוס הצפוי לפי הנוסחה "גודל טובוס כפול 3", אך יש לוודא את המיקום ע"י ההסתכלות הישירה (מעבר מיתרי הקול והמצאות הבלונית מתחת למיתרים)
+
+iv. לפירוט נוסף ראה פרק "ילדים".
+
+```{=html}
+<!-- -->
+```
+7.  **דגשים לסיכום:**
+
+    1.  בהערכת נתיב האוויר של הפצוע עלינו לשאול מס' שאלות: ראשית האם הפצוע זקוק לסיוע בשמירה על נתיב אוויר פתוח? האם הוא זקוק לנתיב אוויר דפיניטיבי? והאם הפעולה צריכה להתבצע כעת?
+    2.  האינטובציה היא "הפקה" שיש להתכונן לקראתה היטב!
+    3.  לעולם לא תבוצע אינטובציה ע"י רופא או פאראמדיק לבד!
+    4.  חמצון ( פרה-אוקסיגנציה) היא שלב חשוב ביותר לפני ביצוע האינטובציה.
+    5.  שיטת האינטובציה המאושרת בצה"ל היא Orotracheal intubation. אין מקום לטכניקות אחרות ובפרט ל -Face to face intubation.
+    6.  שילוב תרופות הבחירה לאינדוקציה לקראת אינטובציה הינו Ketamine ו-Midazolam. יש להמתין עד להשפעת התרופה ( בהתאם לדרך המתן) ובינתיים לחמצן.
+    7.  יש לשים לב לתנאים הסביבתיים בהם מתבצעת האינטובציה- ביצוע הפעולה ישירות תחת השמש עלול לפגוע בview ( בלרינגוסקופיה ישירה וכן בשימוש בוידאו- לרינגוסקופ). כך בעדיפות לבצע את הפעולה בתוך כלי פינוי או אפילו מתחת לשמיכת הצלה.\
+    8.  במקרה של חבלת פנים עם פגיעה בנתיב האוויר השכבה על הגב של הפצוע עלולה לגרום לאובדן מיידי של נתיב האויר. אין להשכיב פצוע עם חבלת פנים ש"מתעקש" לשבת, ויש לפנותו בישיבה!
+    9.  קיבוע הטובוס למקומו הוא שלב קריטי בטיפול בפצוע. טובוס שלא קובע כהלכה דינו להישלף!
+    10. יש לחבר כל פצוע מונשם לקפנוגרף/מטר או גלאי CO2 חד פעמי תמיד ומייד ולנטר ETCO2.
+
+\### סיכום
+
+טיפול דפיניטיבי בנתיב אוויר יבוצע **רק במקרים בהם קיימת עדות קלינית לחסימת נתיב אוויר, לאחר מיצוי האופציות השמרניות**, ותוך הימנעות אקטיבית מביצוע פרוצדורות בפצועים נושמים עם ערכי סטורציה מספקים . על מנת להצליח בניהול נתיב אוויר יש לשמור על מיומנות גבוהה ( ע"י ביצוע שמירת כשירות) ולבצע את הפעולה על פי הטכניקה המפורטת בפרק.
+
+\### ביבליוגרפיה
+
+::: {dir="ltr"}
+1.  Eastridge BJ, Mabry RL, Seguin P, Cantrell J, Tops T, Uribe P, et al. Death on the battlefield (2001-2011): implications for the future of combat casualty care. J Trauma Acute Care Surg. 2012;73(6 Suppl 5):S431-7.
+2.  Winchell RJ, Hoyt DB. Endotracheal intubation in the field improves survival in patients with severe head injury. Trauma Research and Education Foundation of San Diego. Arch Surg. 1997;132(6):592-7.
+3.  Bernard SA, Nguyen V, Cameron P, Masci K, Fitzgerald M, Cooper DJ, et al. Prehospital rapid sequence intubation improves functional outcome for patients with severe traumatic brain injury: a randomized controlled trial. Ann Surg. 2010;252(6):959-65.
+4.  Cudnik MT, Newgard CD, Wang H, Bangs C, Herringtion Rt. Endotracheal intubation increases out-of-hospital time in trauma patients. Prehosp Emerg Care. 2007;11(2):224-9.
+5.  Wirtz DD, Ortiz C, Newman DH, Zhitomirsky I. Unrecognized misplacement of endotracheal tubes by ground prehospital providers. Prehosp Emerg Care. 2007;11(2):213-8.
+6.  Dunford JV, Davis DP, Ochs M, Doney M, Hoyt DB. Incidence of transient hypoxia and pulse rate reactivity during paramedic rapid sequence intubation. Ann Emerg Med. 2003;42(6):721-8.
+7.  Jacobs LM, Berrizbeitia LD, Bennett B, Madigan C. Endotracheal intubation in the prehospital phase of emergency medical care. Jama. 1983;250(16):2175-7.
+8.  Stewart RD, Paris PM, Winter PM, Pelton GH, Cannon GM. Field endotracheal intubation by paramedical personnel. Success rates and complications. Chest. 1984;85(3):341-5.
+9.  DeLeo BC. Endotracheal intubation by rescue squad personnel. Heart Lung. 1977;6(5):851-4.
+10. Guss DA, Posluszny M. Paramedic orotracheal intubation: a feasibility study. Am J Emerg Med. 1984;2(5):399-401.
+11. Pepe PE, Copass MK, Joyce TH. Prehospital endotracheal intubation: rationale for training emergency medical personnel. Ann Emerg Med. 1985;14(11):1085-92.
+12. Shafi S, Gentilello L. Pre-hospital endotracheal intubation and positive pressure ventilation is associated with hypotension and decreased survival in hypovolemic trauma patients: an analysis of the National Trauma Data Bank. J Trauma. 2005;59(5):1140-5; discussion 5-7.
+13. Eckstein M, Chan L, Schneir A, Palmer R. Effect of prehospital advanced life support on outcomes of major trauma patients. J Trauma. 2000;48(4):643-8.
+14. Stockinger ZT, McSwain NE, Jr. Prehospital endotracheal intubation for trauma does not improve survival over bag-valve-mask ventilation. J Trauma. 2004;56(3):531-6.
+15. Davis DP, Peay J, Sise MJ, Kennedy F, Simon F, Tominaga G, et al. Prehospital airway and ventilation management: a trauma score and injury severity score-based analysis. J Trauma. 2010;69(2):294-301.
+16. Davis DP, Peay J, Sise MJ, Vilke GM, Kennedy F, Eastman AB, et al. The impact of prehospital endotracheal intubation on outcome in moderate to severe traumatic brain injury. J Trauma. 2005;58(5):933-9.
+17. Wang HE, Yealy DM. Out-of-hospital endotracheal intubation: where are we? Ann Emerg Med. 2006;47(6):532-41.
+18. Gausche M, Lewis RJ, Stratton SJ, Haynes BE, Gunter CS, Goodrich SM, et al. Effect of out-of-hospital pediatric endotracheal intubation on survival and neurological outcome: a controlled clinical trial. Jama. 2000;283(6):783-90.
+19. Stiell IG, Nesbitt LP, Pickett W, Munkley D, Spaite DW, Banek J, et al. The OPALS Major Trauma Study: impact of advanced life-support on survival and morbidity. Cmaj. 2008;178(9):1141-52.
+20. Lecky F, Bryden D, Little R, Tong N, Moulton C. Emergency intubation for acutely ill and injured patients. Cochrane Database Syst Rev. 2008(2):Cd001429.
+21. Adnet F, Jouriles NJ, Le Toumelin P, Hennequin B, Taillandier C, Rayeh F, et al. Survey of out-of-hospital emergency intubations in the French prehospital medical system: a multicenter study. Ann Emerg Med. 1998;32(4):454-60.
+22. Burns HP, Dayal VS, Scott A, van Nostrand AW, Bryce DP. Laryngotracheal trauma: observations on its pathogenesis and its prevention following prolonged orotracheal intubation in the adult. Laryngoscope. 1979;89(8):1316-25.
+23. Martin LD, Mhyre JM, Shanks AM, Tremper KK, Kheterpal S. 3,423 emergency tracheal intubations at a university hospital: airway outcomes and complications. Anesthesiology. 2011;114(1):42-8.
+24. Istvan J, Belliveau M, Donati F. Rapid sequence induction for appendectomies: a retrospective case-review analysis. Can J Anaesth. 2010;57(4):330-6.
+25. Franklin C, Samuel J, Hu TC. Life-threatening hypotension associated with emergency intubation and the initiation of mechanical ventilation. Am J Emerg Med. 1994;12(4):425-8.
+26. Santos PM, Afrassiabi A, Weymuller EA, Jr. Risk factors associated with prolonged intubation and laryngeal injury. Otolaryngol Head Neck Surg. 1994;111(4):453-9.
+27. Tadie JM, Behm E, Lecuyer L, Benhmamed R, Hans S, Brasnu D, et al. Post-intubation laryngeal injuries and extubation failure: a fiberoptic endoscopic study. Intensive Care Med. 2010;36(6):991-8.
+28. Gaither JB, Spaite DW, Bobrow BJ, Denninghoff KR, Stolz U, Beskind DL, et al. Balancing the potential risks and benefits of out-of-hospital intubation in traumatic brain injury: the intubation/hyperventilation effect. Ann Emerg Med. 2012;60(6):732-6.
+29. Atkinson JL. The neglected prehospital phase of head injury: apnea and catecholamine surge. Mayo Clin Proc. 2000;75(1):37-47.
+30. Chesnut RM, Marshall LF, Klauber MR, Blunt BA, Baldwin N, Eisenberg HM, et al. The role of secondary brain injury in determining outcome from severe head injury. J Trauma. 1993;34(2):216-22.
+31. Davis DP, Hoyt DB, Ochs M, Fortlage D, Holbrook T, Marshall LK, et al. The effect of paramedic rapid sequence intubation on outcome in patients with severe traumatic brain injury. J Trauma. 2003;54(3):444-53.
+32. Murray JA, Demetriades D, Berne TV, Stratton SJ, Cryer HG, Bongard F, et al. Prehospital intubation in patients with severe head injury. J Trauma. 2000;49(6):1065-70.
+33. Davis DP, Koprowicz KM, Newgard CD, Daya M, Bulger EM, Stiell I, et al. The relationship between out-of-hospital airway management and outcome among trauma patients with Glasgow Coma Scale Scores of 8 or less. Prehosp Emerg Care. 2011;15(2):184-92.
+34. Davis DP, Fisher R, Buono C, Brainard C, Smith S, Ochs G, et al. Predictors of intubation success and therapeutic value of paramedic airway management in a large, urban EMS system. Prehosp Emerg Care. 2006;10(3):356-62.
+35. Vadeboncoeur TF, Davis DP, Ochs M, Poste JC, Hoyt DB, Vilke GM. The ability of paramedics to predict aspiration in patients undergoing prehospital rapid sequence intubation. J Emerg Med. 2006;30(2):131-6.
+36. Bozeman WP, Idris AH. Intracranial pressure changes during rapid sequence intubation: a swine model. J Trauma. 2005;58(2):278-83.
+37. Davis DP, Dunford JV, Poste JC, Ochs M, Holbrook T, Fortlage D, et al. The impact of hypoxia and hyperventilation on outcome after paramedic rapid sequence intubation of severely head-injured patients. J Trauma. 2004;57(1):1-8; discussion -10.
+38. Davis DP, Idris AH, Sise MJ, Kennedy F, Eastman AB, Velky T, et al. Early ventilation and outcome in patients with moderate to severe traumatic brain injury. Crit Care Med. 2006;34(4):1202-8.
+39. Warner KJ, Cuschieri J, Copass MK, Jurkovich GJ, Bulger EM. The impact of prehospital ventilation on outcome after severe traumatic brain injury. J Trauma. 2007;62(6):1330-6; discussion 6-8.
+40. Davis DP. Should invasive airway management be done in the field? Cmaj. 2008;178(9):1171-3.
+41. Davis DP, Meade W, Sise MJ, Kennedy F, Simon F, Tominaga G, et al. Both hypoxemia and extreme hyperoxemia may be detrimental in patients with severe traumatic brain injury. J Neurotrauma. 2009;26(12):2217-23.
+42. Taghavi S, Jayarajan SN, Ferrer LM, Vora H, McKee C, Milner RE, et al. "Permissive hypoventilation" in a swine model of hemorrhagic shock. J Trauma Acute Care Surg. 2014;77(1):14-9.
+43. Taghavi S, Jayarajan SN, Khoche S, Duran JM, Cruz-Schiavone GE, Milner RE, et al. Examining prehospital intubation for penetrating trauma in a swine hemorrhagic shock model. J Trauma Acute Care Surg. 2013;74(5):1246-51.
+44. Taghavi S, Duran JM, Jayarajan S, Cruz-Schiavone GE, Milner RE, Gaughan JP, et al. Still making the case against prehospital intubation: a rat hemorrhagic shock model. J Trauma Acute Care Surg. 2012;73(2):332-7; discussion 7.
+45. Taghavi S, Vora HP, Jayarajan SN, Gaughan JP, Pathak AS, Santora TA, et al. Prehospital intubation does not decrease complications in the penetrating trauma patient. Am Surg. 2014;80(1):9-14.
+46. Chou D, Harada MY, Barmparas G, Ko A, Ley EJ, Margulies DR, et al. Field intubation in civilian patients with hemorrhagic shock is associated with higher mortality. J Trauma Acute Care Surg. 2016;80(2):278-82.
+47. Wang HE, Brown SP, MacDonald RD, Dowling SK, Lin S, Davis D, et al. Association of out-of-hospital advanced airway management with outcomes after traumatic brain injury and hemorrhagic shock in the ROC hypertonic saline trial. Emerg Med J. 2014;31(3):186-91.
+48. Fewell JE, Abendschein DR, Carlson CJ, Murray JF, Rapaport E. Continuous positive-pressure ventilation decreases right and left ventricular end-diastolic volumes in the dog. Circ Res. 1980;46(1):125-32.
+49. Morgan BC, Crawford EW, Guntheroth WG. The hemodynamic effects of changes in blood volume during intermittent positive-pressure ventilation. Anesthesiology. 1969;30(3):297-305.
+50. Bair AE, Panacek EA, Wisner DH, Bales R, Sakles JC. Cricothyrotomy: a 5-year experience at one institution. J Emerg Med. 2003;24(2):151-6.
+51. Mabry RL, Frankfurt A. An analysis of battlefield cricothyrotomy in Iraq and Afghanistan. J Spec Oper Med. 2012;12(1):17-23.
+52. Katzenell U, Lipsky AM, Abramovich A, Huberman D, Sergeev I, Deckel A, et al. Prehospital intubation success rates among Israel Defense Forces providers: epidemiologic analysis and effect on doctrine. J Trauma Acute Care Surg. 2013;75(2 Suppl 2):S178-83.
+53. Pugh HE, LeClerc S, McLennan J. A review of pre-admission advanced airway management in combat casualties, Helmand Province 2013. J R Army Med Corps. 2015;161(2):121-6.
+54. Barnard EB, Ervin AT, Mabry RL, Bebarta VS. Prehospital and en route cricothyrotomy performed in the combat setting: a prospective, multicenter, observational study. J Spec Oper Med. 2014;14(4):35-9.
+55. Kyle T, le Clerc S, Thomas A, Greaves I, Whittaker V, Smith JE. The success of battlefield surgical airway insertion in severely injured military patients: a UK perspective. J R Army Med Corps. 2016;162(6):460-4.
+56. Fortune JB, Judkins DG, Scanzaroli D, McLeod KB, Johnson SB. Efficacy of prehospital surgical cricothyrotomy in trauma patients. J Trauma. 1997;42(5):832-6; discussion 7-8.
+57. Adams BD, Cuniowski PA, Muck A, De Lorenzo RA. Registry of emergency airways arriving at combat hospitals. J Trauma. 2008;64(6):1548-54.
+58. Langvad S, Hyldmo PK, Nakstad AR, Vist GE, Sandberg M. Emergency cricothyrotomy--a systematic review. Scand J Trauma Resusc Emerg Med. 2013;21:43.
+59. Mabry R, Frankfurt A, Kharod C, Butler F. Emergency Cricothyroidotomy in Tactical Combat Casualty Care. J Spec Oper Med. 2015;15(3):11-9.
+60. Hessert MJ, Bennett BL. Optimizing emergent surgical cricothyrotomy for use in austere environments. Wilderness Environ Med. 2013;24(1):53-66.
+61. (NAEMT) NAoEMT. Tactical Combat Casualty Care Guidelines for Medical Personnel2015. Available from: http://www.naemt.org/docs/default-source/education-documents/tccc/072016-updates/tccc-guidelines-for-medical-personnel-160603.docx?sfvrsn=2.
+62. Pennant JH, White PF. The laryngeal mask airway. Its uses in anesthesiology. Anesthesiology. 1993;79(1):144-63.
+63. Neumar RW, Otto CW, Link MS, Kronick SL, Shuster M, Callaway CW, et al. Part 8: adult advanced cardiovascular life support. Circulation. 2010;122(18 suppl 3):S729-S67.
+64. Monsieurs KG, Zideman DA, Alfonzo A, Arntz H-R, Askitopoulou H, Bellou A, et al. European Resuscitation Council guidelines for resuscitation 2015: section 1. Executive summary. 2015.
+65. Greene MK, Roden R, Hinchley G. The laryngeal mask airway. Two cases of prehospital trauma care. Anaesthesia. 1992;47(8):688-9.
+66. Pennant JH, Walker MB. Comparison of the endotracheal tube and laryngeal mask in airway management by paramedical personnel. Anesth Analg. 1992;74(4):531-4.
+67. Hubble MW, Wilfong DA, Brown LH, Hertelendy A, Benner RW. A meta-analysis of prehospital airway control techniques part II: alternative airway devices and cricothyrotomy success rates. Prehosp Emerg Care. 2010;14(4):515-30.
+68. Brimacombe JR, Berry A. The incidence of aspiration associated with the laryngeal mask airway: a meta-analysis of published literature. J Clin Anesth. 1995;7(4):297-305.
+69. Warner MA, Warner ME, Weber JG. Clinical significance of pulmonary aspiration during the perioperative period. Anesthesiology. 1993;78(1):56-62.
+70. Keller C, Brimacombe J, Bittersohl J, Lirk P, von Goedecke A. Aspiration and the laryngeal mask airway: three cases and a review of the literature. Br J Anaesth. 2004;93(4):579-82.
+71. Verghese C, Brimacombe JR. Survey of laryngeal mask airway usage in 11,910 patients: safety and efficacy for conventional and nonconventional usage. Anesth Analg. 1996;82(1):129-33.
+72. Atalay YO, Kaya C, Aktas S, Toker K. A complication of the laryngeal mask airway: Pharyngolaryngeal rupture and pneumomediastinum. Eur J Anaesthesiol. 2015;32(6):439-40.
+73. Lopez-Gil M, Brimacombe J, Alvarez M. Safety and efficacy of the laryngeal mask airway. A prospective survey of 1400 children. Anaesthesia. 1996;51(10):969-72.
+74. Frass M, Frenzer R, Ilias W, Lackner F, Hoflehner G, Losert U. \[The esophageal tracheal Combitube (ETC): animal experiment results with a new emergency tube\]. Anasth Intensivther Notfallmed. 1987;22(3):142-4.
+75. Agro F, Frass M, Benumof JL, Krafft P. Current status of the Combitube: a review of the literature. J Clin Anesth. 2002;14(4):307-14.
+76. Frass M, Frenzer R, Rauscha F, Schuster E, Glogar D. Ventilation with the esophageal tracheal combitube in cardiopulmonary resuscitation. Promptness and effectiveness. Chest. 1988;93(4):781-4.
+77. Frascone RJ, Russi C, Lick C, Conterato M, Wewerka SS, Griffith KR, et al. Comparison of prehospital insertion success rates and time to insertion between standard endotracheal intubation and a supraglottic airway. Resuscitation. 2011;82(12):1529-36.
+78. Schalk R, Seeger FH, Mutlak H, Schweigkofler U, Zacharowski K, Peter N, et al. Complications associated with the prehospital use of laryngeal tubes--a systematic analysis of risk factors and strategies for prevention. Resuscitation. 2014;85(11):1629-32.
+79. Ott T, Fischer M, Limbach T, Schmidtmann I, Piepho T, Noppens RR. The novel intubating laryngeal tube (iLTS-D) is comparable to the intubating laryngeal mask (Fastrach) - a prospective randomised manikin study. Scand J Trauma Resusc Emerg Med. 2015;23:44.
+80. Shavit I, Levit B, Basat NB, Lait D, Somri M, Gaitini L. Establishing a definitive airway in the trauma patient by novice intubators: A randomised crossover simulation study. Injury. 2015;46(11):2108-12.
+81. Carlson JN, Mayrose J, Wang HE. How much force is required to dislodge an alternate airway? Prehosp Emerg Care. 2010;14(1):31-5.
+82. Jackson C. Tracheotomy. The Laryngoscope. 1909;19(4):285-90.
+83. Jackson C. High tracheostomy and other errors. The chief causes of chronic laryngeal stenosis. Surg Gynec Obster. 1921;32:392.
+84. Brantigan CO, Grow JB, Sr. Cricothyroidotomy: elective use in respiratory problems requiring tracheotomy. J Thorac Cardiovasc Surg. 1976;71(1):72-81.
+85. Holmes JF, Panacek EA, Sakles JC, Brofeldt BT. Comparison of 2 cricothyrotomy techniques: standard method versus rapid 4-step technique. Ann Emerg Med. 1998;32(4):442-6.
+86. Braude D, Webb H, Stafford J, Stulce P, Montanez L, Kennedy G, et al. The bougie-aided cricothyrotomy. Air Med J. 2009;28(4):191-4.
+87. Levitan RM. The Cric-Key and Cric-Knife: a combined tube-introducer and scalpel-hook open cricothyrotomy system. J Spec Oper Med. 2014;14(1):45-9.
+88. Mabry RL, Nichols MC, Shiner DC, Bolleter S, Frankfurt A. A comparison of two open surgical cricothyroidotomy techniques by military medics using a cadaver model. Ann Emerg Med. 2014;63(1):1-5.
+89. Buis ML, Maissan IM, Hoeks SE, Klimek M, Stolker RJ. Defining the learning curve for endotracheal intubation using direct laryngoscopy: A systematic review. Resuscitation. 2016;99:63--71. .90Hughes H, Kahl L. The Harriet Lane Handbook - 21st Ed 2017.; 2018. 91.Algie CM, Mahar RK, Tan HB, Wilson G, Mahar PD, Wasiak J. Effectiveness and risks of cricoid pressure during rapid sequence induction for endotracheal intubation. Cochrane Database Syst Rev. 2015 . doi: 10.1002/14651858.cd011656.pub2 . \| Open in Read by QxMD 92.Amboss.com. 2022. Airway management. \[online\] Available at: https://www.amboss.com/us/knowledge/airway-management#Zc539b471bafbcb677c38c8b4410fec6c
+:::
