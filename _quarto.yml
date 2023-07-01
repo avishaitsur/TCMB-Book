@@ -5,7 +5,16 @@ book:
   reader-mode: true
   cover-image: TCMB logo.jpeg
   cover-image-alt: The logo of the Israel Defense Forces Medical Corps Trauma and Combat Medicine Branch 
+  favicon: TCMB logo.jpeg
   title: "ספר הרפואה המבצעית"
+  
+  page-footer:
+    left: |
+      ספר הרפואה המבצעית
+    right: |
+      אבישי צור, תומר תלמי ועפר אלמוג
+  
+  
   author:
   - name: 'ד"ר אבישי צור, רס"ן'
     orcid: 0000-0002-1564-6395
@@ -80,3 +89,4 @@ format:
     fig-align: center
     fig-format: png
     fig-dpi: 300
+    author-meta: "Avishai M. Tsur, Tomer Talmy, and Ofer Almog"
