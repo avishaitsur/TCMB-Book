@@ -1,50 +1,10 @@
 # טראומה בילדים
 
-### **עיקרי העדכונים:**
+## עיקרי העדכונים
 06/2022
 * כתיבת ההנחיה
 
-### תוכן עניינים
- 
-#### ביאור הפרוטוקול
-#### שלב ה-S: סקר ראשוני בילדים
-#### שלב ה-A: ניהול נתיב אוויר
-ניהול נתיב אוויר בסיסי והנשימה 
-#### שלב ה-B: פגיעות חזה 
-#### שלב ה-C: הערכת הלם בילדים 
-#### שלב ה-D
-#### שלב ה-E: חום גוף והכנה לפינוי
-
-שמירה על חום הגוף
-
-הכנות לפינוי וקיבוע עמוד שדרה
-
-#### סקר החייאה 
-
-נתיב אוויר מתקדם
-
-נתיב אוויר כירורגי
-
-ניקוז חזה 
-
-החזר נפח (מוצרי דם או קריסטלואידים)
-
-טיפול בכאב 
-
-#### סקר שניוני 
-
-אנטיביוטיקה 
-
-#### הורים לילד פצוע 
-#### הפסקת מאמצי החייאה 
-#### לאחר האירוע 
-#### סיכום 
-#### נספח א': תכולת ערכת צר"פ ילדים 
-#### נספח ב': הערכת משקל ילדים
-#### נספח ג': מינונים ומדדים על פי גיל 
-#### נספח ד': דגשים לציוד ותרופות לפי גיל 
-
-### מבוא 
+## מבוא 
 
 טראומה היא בין גורמי המוות המובילים בילדים בעולם ובישראל.
 
@@ -60,7 +20,7 @@
 
 ************************************************************ תמונה של פרוטוקול
  
-### ביאור הפרוטוקול 
+## ביאור הפרוטוקול 
  
  נדגיש את החשיבות בשימוש בסרגל ההחייאה (סרגל ברסלאו- Broselow-Luten Tape), הנמצא בערכת צר"פ הילדים בכל שלבי הטיפול. את קצה הסרגל האדום מניחים לצד ראש הילד, ובמשבצת שתהיה ליד עקביו ניתן יהיה לראות מידע שימושי לגבי סימנים חיוניים מותאמים גיל,  מינוני התרופות וגדלי הציוד המתאימים לילד.
  
@@ -230,15 +190,15 @@
 ### לאחר האירוע 
 כבכל אירוע, יש לבצע תחקור של האירוע בהשתתפות כלל המטפלים, ולוודא הזנה ודיווח עליו כנדרש. מאחר ואירועים אשר מערבים ילדים אינם מהווים חלק משגרת הטיפול בצה"ל, אלו יכולים להוביל למטען משמעותי יותר בקרב המטפלים, בדגש על הפחות מנוסים. לכן, יש להקפיד לדיין את תחושות הצוות לאחר האירוע, לחזק תחושת מסוגלות ובמידת הצורך לשקול מעורבות של גורמי ברה"ן. 
 
-### סיכום
+## סיכום
 הטיפול בילדים פצועי טראומה ע"י צוותי הרפואה של צה"ל אינו אירוע שכיח, אך בהחלט אינו נדיר. על הצוותים המטפלים להכיר את עקרונות הטיפול ואת הדגשים בנפגעים אלו, ולזכור שהטיפול הבסיסי מושתת על העקרונות האוניברסליים של טיפול בנפגעי טראומה, בהתאמות קלות.
 
-### נספח א':  תכולת ערכת צר"פ ילדים
+## נספח א':  תכולת ערכת צר"פ ילדים
 ערכת צר"פ; לילדים, דגם 2016
 
 ********************************************************************************טבלה 
 
-### נספח ב': הערכת משקל ילדים
+## נספח ב': הערכת משקל ילדים
 
 ככלל, יש להעדיף הערכה המבוססת על גודלו הפיזי של הילד הספציפי, ועל כן השיטה המועדפת להערכת משקל בילדים בשטח תהיה שימוש בסרגל ההחייאה, הנמצא בערכת צר"פ הילדים. במידה והמטפל מתרשם שניתן לקבל דיווח אמין על משקל הילד מההורים - ניתן להיעזר גם במספר זה.
 
@@ -259,35 +219,16 @@
 
 מקור: Young et al, 2015
 
-### נספח ג': מינונים ומדדים על פי גיל
+## נספח ג': מינונים ומדדים על פי גיל
 ככלל, יש להיעזר בסרגל ההחייאה לקביעת המדדים הצפויים, המינונים וגדלי הציוד הנדרשים.
 
 במידה והנתון הדרוש לא מפורט בסרגל, או במידה והוא אינו זמין - יש להעריך קודם כל את משקל הפצוע לפי אחת השיטות המפורטות בנספח הקודם, ולאחר מכן לחשב את המינון/גודל לפי המפורט בנספח זה.
 
 ******************************************************* תמונה 
 
-### נספח ד': דגשים לציוד ותרופות לפי גיל
+## נספח ד': דגשים לציוד ותרופות לפי גיל
 
 *************************************************************************טבלה 
 
 *****************************************************************************תמונה 
 
-### ביביליוגרפיה
-
-<div dir="ltr">
-
-1. Advanced Trauma Life Support Student Course Manual, 10th edition
-2. גולדנברג ושות', סיבות מוות מובילות בישראל 2000-2019 ואומדן שיעור התמותה 2019-2020. משרד הבריאות, פברואר 2022.
-3. Kelly et al. Effectiveness of the combat application tourniquet for arterial occlusion in young children. J Trauma Acute Care Surg. 2020 May;88(5):644-647. doi: 10.1097/TA.0000000000002594.
-4. Harcke et al. Adult Tourniquet for Use in School-Age Emergencies. Pediatrics 2019 Jun;143(6):e20183447. doi: 10.1542/peds.2018-3447.
-5. Centers for Disease Control and Prevention (CDC): Injury prevention & control: traumatic brain injury. Available at www.cdc.gov/traumaticbraininjury/data/index.html
-6. Guidelines 2000 for cardiopulmonary resuscitation and emergency cardiovascular care. Part 10: Pediatric advanced life support. The American Heart Association in collaboration with the International Liaison Committee on Resuscitation. Resuscitation. 2000;102:I291–342.
-7. Terboven et al. Chest wall thickness and depth to vital structures in paediatric patients - implications for prehospital needle decompression of tension pneumothorax. Scand J Trauma Resusc Emerg Med. 2019 Apr 16;27(1):45. doi: 10.1186/s13049-019-0623-5.
-8. Leonhard et al. Determining optimal needle size for decompression of tension pneumothorax in children – a CT-based study.  Scand J Trauma Resusc Emerg Med. 2019; 27: 90. doi: 10.1186/s13049-019-0671-x
-9. Gendler et al. Pre-Hospital Tranexamic Acid Administration to pediatric trauma casualties: A Decade of The Israeli Defense Force`s Experience. Unpublished. 2022
-10. Young et al. Finger counting: an alternative method for estimating pediatric weights.Am J Emerg Med. 2014 Mar;32(3):243-7. doi: 10.1016/j.ajem.2013.11.034.
-11. King BR, Baker MD, Braitman LE, Seidl-Friedman J, Schreiner MS. Endotracheal tube selection in children: a comparison of four methods. Ann Emerg Med. 1993 Mar;22(3):530-4. doi: 10.1016/s0196-0644(05)81937-7. PMID: 8442540.
-12. Harcke HT, Lawrence LL, Gripp EW, Kecskemethy HH, Kruse RW, Murphy SG. Adult Tourniquet for Use in School-Age Emergencies. Pediatrics. 2019 Jun;143(6):e20183447. doi: 10.1542/peds.2018-3447. Epub 2019 May 7. PMID: 31064797.
-13. Ciurea AV, Sandu AM, Popescu M, Iencean SM, Davidescu B. Neurotrauma pediatric scales. J Med Life. 2008 Oct-Dec;1(4):403-14. PMID: 20108520; PMCID: PMC5654209.
-
-</div>

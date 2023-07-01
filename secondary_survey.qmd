@@ -5,35 +5,6 @@
 
 - כתיבת הפרק
 
-## תוכן עניינים:
-**הקדמה ורקע**
-
-**תנאי סף לתחילת הסקר השניוני**
-
-**סקר שניוני עפ"י סדר הפעולות**
-
-- **Bite block**
-
-- **חיבור למנשם אוטומטי**
-
-- **בדיקה גופנית מדוקדקת**
-
-- **המרת חוסמי עורקים**
-
-- **מתן אנטיביוטיקה**
-
-- **הקסאקפרון**
-
-- **קתטר שתן**
-
-- **זונדה**
-
-**סיכום** 
-
-**ביבליוגרפיה ומקורות**
-
-
-
 ## הקדמה ורקע
 **מקומו של הפצוע הוא בבית החולים, מהר ככל האפשר.** כל עיכוב לא הכרחי של הפצוע בשטח מפחית את סיכוייו לשרוד. לחוליה הרפואית, לצוות הרפואי ולמחלקת הרפואה הגדודית לא קיימת יכולת להשהות פצוע. התנאים בסביבה מאוימת, תחת אילוצים מבצעיים, ללא יכולות ניטור מתקדמות, ללא רופאים מומחים מכלל התחומים הנדרשים, ללא צוות סיעודי, ללא יכולות הדמיה ובדיקות מעבדה, עם ציוד מוגבל, ללא אפשרות לסטריליות, וללא חדר ניתוח, אינם מאפשרים טיפול מיטבי בפצוע. הטיפול בסביבה זו מסכן את הפצוע ואת הכח – ולכן יש לחתור בכל שלב לפינוי המיידי של הפצוע ובעדיפות ליעד הדפניטיבי – בית חולים.
 
@@ -156,26 +127,3 @@
 ### סיכום
 הסקר השניוני כולל בתוכו פעולות אבחנתיות וטיפוליות חשובות, שעשויות לצמצם נכות וסבל, אולם התרומה של כולן נחותה בהשוואה לתרומה של פינוי לביה"ח או מסגרת רפואה מתקדמת אחרת. לפיכך, יש חשיבות ולהכיר ולשלוט בשלבי הסקר השניוני, אולם תמיד לזכור כי אין לעכב פינוי לצורך ביצועו.
 
-
-## ביבליוגרפיה ומקורות
-
-<div dir="ltr">
-
-1. 	Bassani MA, Filho FM, de Carvalho Coppo MR, Martins Marba ST. An Evaluation of Peak Inspiratory Pressure, Tidal Volume, and Ventilatory Frequency During Ventilation With a Neonatal Self-Inflating Bag Resuscitator. Respir Care [Internet]. 2012 Apr 1;57(4):525–30. Available from: http://rc.rcjournal.com/cgi/doi/10.4187/respcare.01423
-
-2. 	Turki M, Young MP, Wagers SS, Bates JHT. Peak pressures during manual ventilation. Respir Care [Internet]. 2005 Mar;50(3):340–4. Available from: http://www.ncbi.nlm.nih.gov/pubmed/15737243
-
-3. 	Lee HM, Cho KH, Choi YH, Yoon SY, Choi YH. Can you deliver accurate tidal volume by manual resuscitator? Emerg Med J [Internet]. 2008 Oct 1;25(10):632–4. Available from: http://emj.bmj.com/cgi/doi/10.1136/emj.2007.053678
-4. 	Holets SR, Davies JD. Should a Portable Ventilator Be Used in All In-Hospital Transports? Respir Care [Internet]. 2016 Jun 1;61(6):839–53. Available from: http://rc.rcjournal.com/cgi/doi/10.4187/respcare.04745
-
-
-5. 	Howard JT, Kotwal RS, Stern CA, Janak JC, Mazuchowski EL, Butler FK, et al. Use of Combat Casualty Care Data to Assess the US Military Trauma System During the Afghanistan and Iraq Conflicts, 2001-2017. JAMA Surg [Internet]. 2019 Jul 1 [cited 2019 Apr 18];154(7):600–8. Available from: http://archsurg.jamanetwork.com/article.aspx?doi=10.1001/jamasurg.2019.0151
-6. 	Kauvar DS, Miller D, Walters TJ. Tourniquet use is not associated with limb loss following military lower extremity arterial trauma. J Trauma Acute Care Surg. 2018;85(3):495–9. 
-7. 	Tsur AM, Nadler R, Benov A, Glassberg E, Siman-Tov M, Radomislensky I, et al. The effects of military-wide introduction of advanced tourniquets in the Israel Defense Forces. Injury. 2020; 
-8. 	Smith AA, Ochoa JE, Wong S, Beatty S, Elder J, Guidry C, et al. Prehospital tourniquet use in penetrating extremity trauma: Decreased blood transfusions and limb complications. J Trauma Acute Care Surg [Internet]. 2019 Oct 23 [cited 2018 Dec 19];86(1):44–51. Available from: http://www.ncbi.nlm.nih.gov/pubmed/30358768
-9. 	Nicolle LE. Catheter-related urinary tract infection. Drugs and Aging [Internet]. 2005;22(8):627–39. Available from: http://link.springer.com/10.2165/00002512-200522080-00001
-10. 	Warren JW, Platt R, Thomas RJ, Rosner B, Kass EH. Antibiotic Irrigation and Catheter-Associated Urinary-Tract Infections. N Engl J Med [Internet]. 1978 Sep 14;299(11):570–3. Available from: http://www.nejm.org/doi/abs/10.1056/NEJM197809142991103
-11. 	Saint S, Greene MT, Krein SL, Rogers MAM, Ratz D, Fowler KE, et al. A program to prevent catheter-associated urinary tract infection in acute care. N Engl J Med [Internet]. 2016 Jun 2;374(22):2111–9. Available from: http://www.nejm.org/doi/10.1056/NEJMoa1504906
-
-
-</div>

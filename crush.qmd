@@ -262,25 +262,3 @@ iii. **באיזה שלב יש לבצע את הקיבוע?**
 ## השימוש בקרש גב במתאר הצבאי
 
 בארה"ב- נכון לסוף שנת 2008 סבלו 432 לוחמים אמריקאיים מפציעות עמוד שדרה במהלך המבצעים הלחימה בעיראק14. במאמר שסוקר את הפצועים, אופן הקיבוע ואת המהלך הנוירולוגי ממליצים הכותבים לבצע סלקציה של הפצועים שיקובעו לקרש גב על פי הקריטריונים המתוארים בתרשים. עוד במאמר מסכמים כי קיבוע אוניברסלי של כלל הפצועים בלחימה איננו חיוני ועשוי להיות יותר חמור ממועיל. ההמלצה הינה לקבע פצועים שאכן יש להם חשד לפגיעה בעמוד השדרה או חוט השדרה והללו צריכים להיות מקובעים עד שנשללה הפגיעה.
-
-## בביליוגרפיה
-
-<div dir="ltr">
-
-1.  Geisler WO, Wynne-Jones M, Jousse AT. Early management of the patient with trauma to the spinal cord. Med Serv J Can. 22(7):512-523. http://www.ncbi.nlm.nih.gov/pubmed/5970010. Accessed August 14, 2019.
-2.  Bohlman HH. Acute fractures and dislocations of the cervical spine. An analysis of three hundred hospitalized patients and review of the literature. J Bone Joint Surg Am. 1979;61(8):1119-1142. http://www.ncbi.nlm.nih.gov/pubmed/511875.
-3.  Hauswald M, Ong G, Tandberg D, Omar Z. Out-of-hospital spinal immobilization: its effect on neurologic injury. Acad Emerg Med. 1998;5(3):214-219. http://www.ncbi.nlm.nih.gov/pubmed/9523928. Accessed August 14, 2019.
-4.  EMS spinal precautions and the use of the long backboard. Prehospital Emerg Care. 2013;17(3):392-393. doi:10.3109/10903127.2013.773115
-5.  Lerner EB, Billittier AJ, Moscati RM. The effects of neutral positioning with and without padding on spinal immobilization of healthy subjects. Prehosp Emerg Care. 2(2):112-116. http://www.ncbi.nlm.nih.gov/pubmed/9709329. Accessed August 14, 2019.
-6.  March JA, Ausband SC, Brown LH. Changes in physical examination caused by use of spinal immobilization. Prehosp Emerg Care. 6(4):421-424. http://www.ncbi.nlm.nih.gov/pubmed/12385610. Accessed August 14, 2019.
-7.  Bauer D, Kowalski R. Effect of spinal immobilization devices on pulmonary function in the healthy, nonsmoking man. Ann Emerg Med. 1988;17(9):915-918. doi:10.1016/S0196-0644(88)80671-1
-8.  Walsh M, Grant T, Mickey S. Lung function compromised by spinal immobilization. Ann Emerg Med. 1990;19(5):615-616. doi:10.1016/S0196-0644(05)82211-5
-9.  Berg G, Nyberg S, Harrison P, Baumchen J, Gurss E, Hennes E. Near-infrared spectroscopy measurement of sacral tissue oxygen saturation in healthy volunteers immobilized on rigid spine boards. Prehospital Emerg Care. 2010;14(4):419-424. doi:10.3109/10903127.2010.493988
-10. Kwan I, Bunn F, Roberts I. on behalf of the WHO Pre-Hospital Trauma Care Steering Committee: Spinal immobilisation for trauma patients (Review) on behalf of the WHO Pre-Hospital Trauma Care Steering Committee. Cochrane Database Syst Rev 2001. 2001;(22):Art. No.: CD002803. doi:10.1002/14651858.CD002803
-11. Gordillo Martín R, Alcaraz Ramón PE, Manzano Capel F, et al. \[Kinematic analysis of the spine during placement on 2 transfer devices: a spinal backboard and a scoop stretcher\]. Emergencias Rev la Soc Esp Med Emergencias. 2017;29(1):43-45. http://www.ncbi.nlm.nih.gov/pubmed/28825268. Accessed August 14, 2019.
-12. Kosashvili Y, Backstein D, Ziv YB, Safir O, Blumenfeld A, Mirovsky Y. A biomechanical comparison between the thoracolumbosacral surface contact area (SCA) of a standard backboard with other rigid immobilization surfaces. J Trauma. 2009;66(1):191-194. doi:10.1097/TA.0b013e318156835c
-13. Haut ER, Kalish BT, Efron DT, et al. Spine immobilization in penetrating trauma: More harm than good? J Trauma - Inj Infect Crit Care. 2010;68(1):115-120. doi:10.1097/TA.0b013e3181c9ee58
-14. Kang DG, Lehman RA. Spine immobilization: prehospitalization to final destination. J Surg Orthop Adv. 2011;20(1):2-7. http://www.ncbi.nlm.nih.gov/pubmed/21477526. Accessed August 14, 2019.
-15. Quinn RH, Williams J, Bennett BL, Stiller G, Islas AA, McCord S. Wilderness medical society practice guidelines for spine immobilization in the austere environment: 2014 update. Wilderness Environ Med. 2014;25(4):S105-S117. doi:10.1016/j.wem.2014.05.004
-
-</div>

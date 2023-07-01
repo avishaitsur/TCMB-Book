@@ -7,23 +7,6 @@
 28/01/22:
 - עריכת הפרק והכנה להפצה
 
-## תוכן עניינים
-**הקדמה ורקע**
-
-**מרכיבי הטיפול**
-
-- סביבת העבודה
-- הערכת הפצוע ע"פ מערכות
-- בקרת טמפרטורה
-- העברת מידע וייעוץ מרחוק
-
-- היבטים פסיכו-סוציאליים
-- קביעת מוות
-
-**סיכום ודגשים** 
-
-**ביבליוגרפיה ומקורות**
-
 ## הקדמה ורקע
 **מקומו של הפצוע הוא בבית החולים,** וכלל מאמצי ההחייאה המבוצעים בשטח מטרתם לשפר את סיכוייו של הפצוע לשרוד את הגעתו לבית החולים. מאידך, הניסיון ההיסטורי מוכיח כי מנקודת מבט מבצעית לא תמיד ניתן לפנות את הפצוע באופן מיידי לבית החולים, מה שהוביל ליצירת דרגי ביניים, כדוגמת פלה"ק\יר"א ועוד.
 
@@ -265,15 +248,3 @@
 
 #### סיכום
 טיפול מתמשך והחזקת פצוע בשטח בדרג הגדוד היא אירוע בלתי-רצוי, עם משמעויות קשות מבחינה מבצעית, רפואית ופסיכו-סוציאלית. יש להימנע ממנה ככל הניתן. מאידך, איגרת זו נותנת כלים בסיסיים למטפל על מנת לעשות מה שביכולתו למען הפצוע ולמען הכח במצב קיצון זה, באמצעות גישה מערכתית, איסוף נתונים שיטתי, שיקול קליני ומעקב.
-
-## ביבליוגרפיה ומקורות
-
-<div dir="ltr">
-
-1. DeSoucy E, Shackelford S, DuBose JJ, Zweben S, Rush SC, Kotwal RS, Montgomery HR, Keenan S. Review of 54 Cases of Prolonged Field Care. J Spec Oper Med. 2017;17(1):121–9. 
-2. Karmy-Jones R, Jurkovich GJ, Nathens AB, Shatz D V., Brundage S, Wall MJ, Engelhardt S, Hoyt DB, Holcroft J, Knudson MM. Timing of urgent thoracotomy for hemorrhage after trauma: A multicenter study. Arch Surg. 2001;136(5):513–8. 
-3. Barash PG, editor. Clinical Anesthesiology. 8th ed. Wolters Kluwer; 2017. 
-4. Pino RM, editor. Handbook of Clinical Anesthesia Procedures of the Massachusetss General Hospital. 9th ed. Wolters Kluwer; 2016. 
-5. Smith M, Withnall R. Developing prolonged field care for contingency operations. Trauma [Internet]. 2018 Apr 6 [cited 2021 Apr 24];20(2):108–12. Available from: http://journals.sagepub.com/doi/10.1177/1460408617728536
-
-</div>

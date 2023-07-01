@@ -36,6 +36,10 @@ book:
         state: Israel
   date: today
   date-format: full
+  site-url: https://tcmb-book.netlify.app/
+  repo-url: https://github.com/avishaitsur/TCMB-Book
+  repo-branch: main
+  repo-actions: [edit, issue]
   chapters:
     - index.qmd
     - schema.qmd

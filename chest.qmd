@@ -14,24 +14,6 @@
     -   עדכון מבנה הפרק
     -   דגשים להתקנת נקז חזה כולל מס' ניסיונות
 
-## תוכן עניינים
-
--   **מבוא**
--   **פרוטוקול**
--   **ביאור הפרוטוקול**
-    -   דגשים מרכזיים
-    -   זיהוי הפגיעה בשטח
-    -   הטיפול בשטח
-        -   ניקור וניקוז חזה
-        -   טיפול בהלם עמוק
-        -   טיפול תומך
-        -   חבישה
-        -   הנשמה בלחץ חיובי
-        -   ניקוז חזה במתארי קיצון מבצעיים
-        -   דגשים מרכזיים בהתקנת נקז חזה
--   **סיכום**
--   **מקורות**
-
 ## מבוא
 
 פציעות חזה כרוכות בתחלואה ובתמותה משמעותיות. עם זאת, ניתן למנוע חלק משמעותי מהתמותה הזו ע"י זיהוי מהיר וטיפול יעיל בפציעה בשטח.
@@ -40,9 +22,11 @@
 
 חזה אוויר בלחץ היא פגיעת החזה מסכנת החיים הראשונה אותה עלינו לשלול. המדובר במנגנון פציעה אשר מייצר שסתום חד כיווני המוביל להצטברות אוויר בבית החזה, בין קרומי הפלאורה, מבלי יכולת לצאת, מה שמוביל לתמט של הריאה ולבסוף לדחיקת המדיאסטינום אל הכיוון הנגדי ולירידה בהחזר הורידי אל הלב. דבר זה מוביל למצב הלם (המכונה שוק חסימתי --obstructive). חזה אוויר בלחץ הינו אבחנה קלינית, שילוב של סימני פגיעת חזה לצד קיפוח נשימתי והמודינמי. הטיפול המרכזי בפציעה זו הוא ניקוז הלחץ- תחילה ע"י ניקור חזה במחט ובהמשך (לרוב בבית החולים) ע"י התקנת נקז חזה. פציעות חזה **מסכנות חיים** נוספות: - חזה דם מסיבי- מוגדר מסורתית ע"י איבוד של כליטר וחצי או שליש מנפח הדם אל חלל בית החזה. מאפיין בעיקר פגיעות חודרות בכלים גדולים בחזה. הטיפול המרכזי: ניקוז חזה לצד עירוי של מוצרי דם (בהמשך ידרש לעיתים טיפול ניתוחי). - חזה אוויר פתוח "שואב"- נגרם מחבלה משמעותית לדופן בית החזה אשר גורמת ליצירת פצע יונק דרכו נכנס אוויר מבחוץ (במקום שיכנס דרך קנה הנשימה). הדבר מוביל לפגיעה באוורור ולהיפוקסיה משמעותית. הטיפול- כיסוי לא אוטם של הפצע (3 צדדים) ובהמשך התקנת נקז חזה. - טמפונדה לבבית- נגרמת כתוצאה מהצטברות נוזל בחלל הפריקרדיאלי דבר אשר מוביל לירידה בתפוקה הלבבית משנית לירידה במילוי הלבבי. הטיפול יתבסס על העלאת Preload ויתכן שניקוז בבית החולים.
 
-```         
+::: callout-important
+## אבחנת חזה אוויר בלחץ
+
 חשוב לזכור שאת הטריאדה 'הקלאסית' המתארת את הפגיעה (קולות לב מרוחקים, גודש ורידי צוואר ושוק) נדיר מאוד לזהות בשטח ועיקר הטיפול בטרום בית חולים מתרכז בטיפול בשוק- קרי, רסוסיטציה על פי פרוטוקול החייאת בקרת נזקים בשדה.
-```
+:::
 
 חשוב להדגיש כי אין צורך בזיהוי ודאי של סוג הפגיעה בשטח ועל פי העיקרון של 'מטפלים במה שהורג קודם'- הטיפול בפגיעות חזה מסכנות חיים הינו **גנרי** ועיקרו: *העשרה בחמצן, ניקוז חזה והחייאת מוצרי דם (ראה פרוטקול מפורט).*
 
@@ -147,7 +131,7 @@
 -   *במקרה של כישלון* בהחדרת הנקז עצמו לחלל הפלאורלי בשני ניסיונות, נסתפק בחבישה לא אוטמת של הפצע ('3 כיוונים') ונתקדם בפינוי.
 -   קיבוע: כמו בכל פעולה פולשנית, יש להקפיד על קיבוע נאות של הנקז. באם הנקז נשלף תוך כדי פינוי ומצבו של הפצוע אינו מתדרדר תחת ניטור מטפל בכיר אין הכרח בעצירת הפינוי להחדרה מחודשת (אלא להניח חבישה לא אוטמת ולהתקדם בפינוי).
 
-## סיכום:
+## סיכום
 
 1.  עלינו לזהות פגיעות חזה שמחייבות ניקור/ניקוז, ולטפל בהן בהקדם.
 2.  התוויות מרכזיות לניקור חזה: פציעת חזה + סימני שוק או אבדן סימני חיים תו"כ טיפול.
@@ -156,28 +140,3 @@
 5.  כל פצוע מונשם נמצא בסיכון מוגבר להתפתחות חזה אויר בלחץ, יש לנטר באדיקות ולהגביר עירנות.
 6.  אין צורך לבצע נקז חזה בפצוע ללא סימני הלם עמוק, שאנו מצליחים לשמור על חמצון טוב שלו.
 7.  לטיפול תומך יש חשיבות רבה בטיפול בפגיעות חזה, ויש להוסיף משככי כאבים לכל פצוע הסובל מכאבים, וחמצן לכל פצוע עם רוויון חמצן נמוך מ-94% או כזה המתוכנן לפעולה פולשנית.
-
-## ביבליוגרפיה ומקורות
-
-::: {dir="ltr"}
-1.  Roberts P. Patterns of injury in military operations. Curr Anaesth Crit Care 2003; 13 :243-248.
-2.  McPherson JJ, Feigin DS, Bellamy RF. Prevalence of tension pneumothorax in fatally wounded combat casualties. J Trauma. 2006;60(3):573-578.
-3.  Eastridge BJ, Mabry RL, Seguin P, et al. Death on the battlefield (2001-2011): implications for the future of combat casualty care \[published correction appears in J Trauma Acute Care Surg. 2013 Feb;74(2):706. Kotwal, Russell S \[corrected to Kotwal, Russ S\]\]. J Trauma Acute Care Surg. 2012;73(6 Suppl 5):S431-S437.
-4.  Propper BW, Gifford SM, Calhoon JH, McNeil JD. Wartime thoracic injury: Perspectives in modern warfare. Ann Thorac Surg 2010;89: 1032-6.
-5.  Roberts DJ, Leigh-Smith S, Faris PD, et al. Clinical Presentation of Patients With Tension Pneumothorax: A Systematic Review. Ann Surg. 2015;261(6):1068-1078.
-6.  Rosen's Emergency Medicine, 7th ed.
-7.  Murray and Nadel's Textbook of Respiratory Medicine, 5th ed.
-8.  Eckstein M, Suyehara D. Needle thoracostomy in the prehospital setting. Prehosp Emerg Care. 1998;2(2):132-135.
-9.  Axtman BC, Stewart KE, Robbins JM, et al. Prehospital needle thoracostomy: What are the indications and is a post-trauma center arrival chest tube required?. Am J Surg. 2019;218(6):1138-1142.
-10. Leigh-Smith S, Harris T. Tension pneumothorax -- time for a re-think? Emerg Med J 2005;22:8-16.
-11. Aylwin CJ, Brohi K, Davies GD, Walsh MS. Pre-hospital and in-hospital thoracotomy: indications and complications. Ann R Coll Surg Engl 2008;90:54-57.
-12. Maybauer MO, Geisser W, Wolff H, Maybauer DM. Incidence and outcome of tube thoracostomy positioning in trauma patients. Prehosp Emerg Care January 2012; 1:Early online:1-5.
-13. Practice management guideline for "pulmonary contusion -- flail chest", EAST association for the surgery and trauma, june 2006.
-14. Wanek S, Mayberry JC. Blunt thoracic trauma: flail chest, pulmonary contusion, and blast injury. Crit Care Clin 2007; 20: 71-81.
-15. Menditto VG, Gabrielli B, Marcosignori M, Screpante F, Pupita G, Polonara S, Salvi A, Raggetti GM, Pomponia G. A management of blunt thoracic trauma in an emergency department observation unit: pre-post observation study. J Trauma 2011, Prepub.
-16. Cohn SM, DuBose JJ. Pulmonary contusion: an update on recent advances in clinical management. World J Surg 2010; 34: 1959-1970.
-17. Liman ST, Kuzucu A, Tastepe AI, Ulasan GN, Topcu S. Chest injury due to blunt trauma. Eur J Cardio-thoracic Surg. 2003. DOI: 10.1016/s1010-7940(02)00813-
-18. Shorr RM, Crittenden M, Indeck M, Hartunian SL, Rodriguez A. Blunt thoracic trauma. Analysis of 515 patients. Ann Surg. 1987. DOI: 10.1097/00000658-198708000-00013.
-19. Moore FO, Goslar PW, Coimbra R, Velmahos G, Brown CVR, Coopwood TB, Lottenberg L, Phelan HA, Bruns BR, Sherck JP, et al. Blunt traumatic occult pneumothorax: Is observation safe?-results of a prospective, AAST multicenter study. J Trauma - Inj Infect Crit Care. 2011. DOI: 10.1097/TA.0b013e318213f727.
-20. Advanced trauma life support (ATLS®): the 10th edition.2018
-:::

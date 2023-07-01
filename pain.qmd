@@ -1,6 +1,6 @@
 # טיפול בכאב
 
-## עיקרי העדכונים:
+## עיקרי העדכונים
 
 -   19/07/2021
     -   הוספת משקל סף למתן אקטיק
@@ -11,31 +11,11 @@
     -   אי-מהילה של קטמין.
     -   הוספת מינוני ילדים.
 
-## תוכן עניינים:
-
-**מבוא**
-
-**עקרונות והנחות יסוד**
-
-**פרוטוקול**
-
-**ביאור הפרוטוקול**
-
--   **פרק א: רקע כללי**
-
--   **פרק ב': הערכת רמת הכאב**
-
--   **פרק ג': החלטה על סוג הטיפול**
-
-**סיכום**
-
-**ביבליוגרפיה ומקורות**
-
-## מבוא:
+## מבוא
 
 כאב הינו תלונה שכיחה בפצועי טראומה ולטיפול אנלגטי בפצוע חשיבות גבוהה במיוחד במתארי לחימה, בהם רמת הדחק (סטרס) של הפצוע גבוהה, ותתכן המתנה ממושכת לפינוי. הוכח כי טיפול מוקדם ויעיל בכאב מסייע לתוצא (outcome) מוצלח יותר בפציעה טראומטית. לכאב לא מטופל השפעות פיזיולוגיות אשר מעלות את רמת החרדה של הפצוע וכתוצאה מכך מקשה על הטיפול בו. כאב אקוטי לא מטופל אף נקשר לשכיחות מוגברת של התפתחות כאב כרוני ו-Post-Traumatic Stress Disorder (PTSD) בקרב הפצועים. עם זאת, בין אם מחוסר מודעות או מחשש לתופעות לוואי (מצד המטפלים), חלק מהפצועים בשדה לא מקבלים טיפול הולם לכאב או שמתן משככי הכאב נדחה לשלבי טיפול מאוחרים מאוד. כאב מתחיל בנקודת הפציעה ומחקרים מצביעים על כך כי בפני המטפל הראשוני ניצבת ההזדמנות הראשונה ויתכן אף המשמעותית ביותר לשבור את מעגל הכאב ולשפר את התוצאות ארוכות הטווח של הפצוע.
 
-## עקרונות והנחות יסוד:
+## עקרונות והנחות יסוד
 
 1.  כאב צריך להיות מנוטר (בסולם 1-10) ומתועד כאחד הסימנים החיוניים, הטיפול לכאב צריך להתבצע במהלך *סקר ההחייאה*, בהמתנה לפינוי או במהלכו.
 
@@ -191,52 +171,8 @@
 
     6.  **ככלל, מתן של קטמין או אופיאטים מחייב גישה וורידית (מבלי לעכב פינוי) והשגחה ופינוי ע"י מטפל בכיר.**
 
-## סיכום:
+## סיכום
 
 טיפול בכאב בטראומה מהווה נדבך משמעותי בטיפול בפצוע ומסייע להפחתת תחלואה ואף תמותה.
 
 בפרק זה הבאנו בפני המטפל כלים אפקטיביים, מתוקפים, פשוטים ויעילים לטיפול בכאב. כל פצוע הסובל מכאב משמעותי (5 ומעלה) יקבל טיפול אנלגטי מתאים אשר יקבע על פי הכשרת המטפל וקיום גישה ורידית, הפצוע ינוטר לכאב ויקבל תוספת והמשך טיפול על פי הצורך. המטפל ינטר את הפצוע במהלך כל הטיפול להתפתחות ת"ל אשר בעיקרן התדרדרות נשימתית/ המודינמית ובמקביל יתעד את הטיפול שניתן ע"ג טופס 101.
-
-## ביבליוגרפיה ומקורות
-
-::: {dir="ltr"}
-1.  Morgan's Clinical Anesthesiology, 5th ed., Chapter 18. Pain management.
-
-2.  The Merck Manual for Health Care Professionals, Critical care, Shock and fluid resuscitation.
-
-3.  Cognitive modulation of pain: how do attention and emotion influence pain processing. Villemure C, Bushnell C. Pain 2002 (95): 195-199.
-
-4.  Prehospital Analgesia: Systematic Review of Evidence. J R Army Med Corps 156. CL Park
-
-5.  Acute pain on and off the battlefield: What we do , what we know, and future directions. Kent ML, Upp JJ, Buckenmaier CC Int Anesthesiol Clin Volume 49, 3: 10-32.
-
-6.  Pain management in current combat operations. Black IH, McManus J. Prehosp Emerg Care 2009; 13: 223-227.
-
-7.  Intravenous morphine titration to treat severe pain in the ED. Lvovschi V, Aubrun F et al. Am J Emerg Med 2008, 26: 676-682.
-
-8.  Ketamine: a new look at an old drug. Raeder JC, Stensetfh LB, Curr Opin Anaesthesia 2000, 13:463-468.
-
-9.  Morphine and Ketamine is superior to morphine alone for out-of-the-hospital trauma analgesia: a randomized controlled trial. Jennings PA, Cameron P, Walker T, Jolley D, FitzgeraldM, Masci K. Ann Emerg Med 2012, Jan 11 \[epub ehead of print\].
-
-10. The effect of combined treatment with morphine sulpahte and low-dase ketamine in a prehospital setting. Johansson P, Kongstad P, Jahansson A. Scand J Trauma Resusc Emerg Med 2009 nov 27;17: 61.
-
-11. Prehospital use of Ketamine in battlefield analgesia . Butler Frank, Defense Health board Recommendation for the CoTCCC committee, march 2012.
-
-12. Prehospital analgesia: Systematic Review of Evidene. Moore RA. Journal of Royal Army Medical Corps. Dec 2010
-
-13. Safety and efficacy of Oral Transmucosal Fentanyl Citrate for prehospital pain control on the battelfiled. Wedmore I, Kotwal R et al. Journal of Trauma. December 2012.
-
-14. A fentanyl-based pain management protocol provides early analgesia for adulttrauma patients. Curtis KM et al. Journal of trauma. Oct 2007.
-
-15. Management of Pain, Anxiety and Delirium in Injured Warfighters. JTTR Clinical guidelines. Apr 2013
-
-16. Tactical Combat Casualty Care guidelines. September 2012
-
-17. Schwenk ES, Viscusi ER, Buvanendran A, Hurley RW, Wasan AD, Narouze S, et al. Consensus Guidelines on the Use of Intravenous Ketamine Infusions for Acute Pain Management From the American Society of Regional Anesthesia and Pain Medicine, the American Academy of Pain Medicine, and the American Society of Anesthesiologists. Reg Anesth Pain Med. 2018;
-
-18. Laskowski K, Stirling A, McKay WP, Lim HJ. A systematic review of intravenous ketamine for postoperative analgesia. Canadian Journal of Anesthesia. 2011.
-
-19. The Harriet Lane Handbook International Edition: 17th Edition. Robertson J, Shilkofski N.
-
-20. Clinical Anesthesia Procedures of the Massachusetts General Hospital: Ninth Edition, Pino RM et al.
-:::

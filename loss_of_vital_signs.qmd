@@ -26,18 +26,6 @@
 2.  ביצוע ניקוז חזה בנקז חזה או וייגון
 3.  ניתן לקבוע מוות גם בנוכחות PEA בקצב מתחת ל-40
 
-## תוכן עניינים
-
-**הקדמה**
-
-**פרוטוקול**
-
-**ביאור הפרוטוקול** - **קווים מנחים להפסקת מאמצי החייאה בפצוע טראומה בשטח**
-
-**רקע וסקירת ספרות** - **מבוא** - **ניסוח ההנחיות ותיקופן** - **שימוש במוניטור** - **שיעורי תמותה בספרות** - **מנגנון הפציעה** - **תגובות אישונים** - **היפותרמיה**
-
-**ביבליוגרפיה ומקורות**
-
 ## הקדמה
 
 אחד המצבים המורכבים בשטח הוא איבוד סימני חיים "תחת העיניים" ובמצב כזה עלינו להעניק לנפגע את מירב הסיכויים לשרוד (באירוע רב נפגעים, עיתוי הפעולות ידחה). אחת ההחלטות הקשות להן נדרש המטפל במתאר טרום בית החולים, היא ההחלטה על אי-התחלה או הפסקת פעולות ההחייאה בפצוע ללא סימני חיים. על המטפל להחליט, לעיתים קרובות בתנאי דחק, האם יש בפעולות טעם, ובמידה והוחל בהן, מתי כלו סיכויי ההצלה ויש לסיימן. ההחלטה על התחלת מאמצי החייאה מושפעת גם ממספר הפצועים -- פצוע ללא סימני חיים יוגדר כ"ממתין" ורק לאחר סיום הטיפול ביתר הנפגעים תתבצע הערכה מקיפה שלו (ראה פרק אר"ן). מאידך, לביצוע מאמצי החייאה כאשר אין להם סיכוי להצלחה, יש השפעה על ניצול יכולות וצוותי רפואה, קשב לפצועים נוספים, סיכון כוחות פינוי ועוד. פרק זה יגדיר קווים מנחים שמטרתם לסייע למטפל בשטח בתהליך קבלת ההחלטות בנוגע לסיום או הימנעות מביצוע מאמצי החייאה **בנפגע טראומה.**
@@ -107,25 +95,5 @@
 ### היפותרמיה
 
 היפותרמיה שנגרמה מתנאי סביבה ולא מטראומה) עלולה להיות מלווה בברדיקרדיה עד דום לב, היפווטנטילציה עד אפנאה וירידה במצב ההכרה. יתרה מכך היפותרמיה מגינה על איברים חיוניים בזמן איסכמיה. לכן, לא מקובל להפסיק מאמצי החייאה בנפגע היפותרמי שלא על רקע טראומה -- "Not Dead until Warm Dead" . **לעומת זאת, בטראומה אין קורלציה בין הצלחת החייאה לבין היות הפצוע בהיפותרמיה (אשר לרוב משנית למנגנוני המוות). *לכן כאשר הפציעה טראומה) היא מנגנון הנזק המרכזי אין צורך במדידת חום להחלטה על הפסקת מאמצי החייאה*.**
-
-## ביבליוגרפיה ומקורות:
-
-::: {dir="ltr"}
-1.  Hopson LR, Hisrsh E, Delgado J et al. Guidelines for withholding or termination of resuscitation in prehospital traumatic cardiopulmonary arrest. J Am Coll Serg. 2003; 196:475-481.
-2.  Mollberg NM, Wise SR, Berman K et al. The consequences of noncompliance with guidelines for withholding or terminating resuscitation in traumatic cardiac arrest patients. J Trauma 2011, 71:997-1002
-3.  Tarmey NT, Claire LP, Oliver JB et al. Outcomes following military traumatic cardiorespiratory arrest: A prospective observational study. Resuscitation 2011, 82: 1194-1197
-4.  Zwingmann J, Mehlhorn AT, Hammer T et al. Survival and neurologic outcome after traumatic out-of-hospital cardiopulmonary arrest in a pediatric and adult population: a systematic review. Critical Care 2012, 16:R117
-5.  Deasy C, Bray J, Smith K et al. Traumatic out-of-hospital cardiac arrest in Melbourne, Australia. Resuscitation 2012, 83:465-470
-6.  Grasner JT, Wnent J, Seewald S et al. Cardiopulmonary resuscitation traumatic cardiac arrest -- there are survivors. An analysis of two national emergency registries. Critical Care 2011, 15:R276.
-7.  Willis CD, Cameron PA, Bernard SA et al. Cardiopulmonary resuscitation after traumatic cardiac arrest is not always futile. Injury 2006, 37:448-454
-8.  Pickens JJ, Copass MK, Bulger EM, Trauma patients receiving CPR: Predictors of survival. J Trauma 2005, 58:951-958
-9.  Moriwaki Y, Sugiyama M, Yamamoto T et al, Outcomes from prehospital cardiac arrest in blunt trauma patients. World J Surg 2011, 35:34-42.
-10. Chaudhuri K, Malham GM, Rosenfeld JV , Survival of trauma patients with coma and bilateral fixed dilated pupils. Injury 2009, 40(1):28-32.
-11. Tien HC, Cunha JR, Wu SN et al. Do Trauma Patients with a Glasgow Coma Scale Score of 3 and Bilateral Fixed and Dilated Pupils Have any Chance of Survival? J Trauma 2006, 60:274-278
-12. Lieberman JD, Pasquale MD, Garcia R, Use of Admission Glasgow Coma Score, Pupil Size, and Pupil Reactivity to Determine Outcome for Trauma Patients. J Trauma 2003, 55:437-443
-13. Michael G Millin 1, Samuel M Galvagno, Samiur R Khandker, Alisa Malki, Eileen M Bulger. Withholding and Termination of Resuscitation of Adult Cardiopulmonary Arrest Secondary to Trauma: Resource Document to The Joint NAEMSP-ACSCOT Position Statements
-14. Battistella FD, Nugent W, Owings JT, Anderson JT. Field Triage of The Pulseless Trauma Patient. Arch Surg 1999, 134:742-745.
-15. ATLS Manual, Tenth Edition, 2018.
-:::
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\* תמונה הודעת פטירה
