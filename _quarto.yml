@@ -77,6 +77,7 @@ bibliography: references.bib
 csl: elsevier-vancouver.csl
 crossref: 
   fig-title: תרשים
+  tbl-title: טבלה
 
 format:
   html:
@@ -92,4 +93,3 @@ format:
     fig-format: png
     fig-dpi: 300
     author-meta: "Avishai M. Tsur, Tomer Talmy, and Ofer Almog"
-

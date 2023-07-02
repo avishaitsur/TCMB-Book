@@ -1,0 +1,6 @@
+pdf:
+  documentclass: book
+  lang: he
+  mainfont: Arial
+  dir: rtl
+  format-links: [pdf]
