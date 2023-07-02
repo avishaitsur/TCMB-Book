@@ -75,6 +75,9 @@ book:
 
 bibliography: references.bib
 csl: elsevier-vancouver.csl
+crossref: 
+  fig-title: תרשים
+
 
 format:
   html:
