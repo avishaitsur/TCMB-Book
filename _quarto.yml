@@ -52,25 +52,35 @@ book:
   chapters:
     - index.qmd
     - schema.qmd
-    - safety.qmd
-    - airway.qmd
-    - chest.qmd
-    - rdcr.qmd
-    - disability_exposure.qmd
-    - resucitation.qmd
-    - MCE.qmd
-    - loss_of_vital_signs.qmd
-    - secondary_survey.qmd
-    - pfc.qmd
-    - pain.qmd
-    - infections.qmd
-    - tbi.qmd
-    - eyes.qmd
-    - MSK.qmd
-    - pediatrics.qmd
-    - vascular_access.qmd
-    - crush.qmd
-    - canine.qmd
+    - part: primary_survey.qmd
+      chapters: 
+        - safety.qmd
+        - airway.qmd
+        - chest.qmd
+        - rdcr.qmd
+        - disability_exposure.qmd
+    - part: resucitation.qmd
+      chapters: 
+        - pain.qmd
+        - vascular_access.qmd
+    - part: secondary_survey.qmd
+      chapters: 
+        - pfc.qmd
+    - part: MCE.qmd
+      chapters:
+        - MCE.qmd
+    - part: specific_injuries.qmd
+      chapters: 
+        - loss_of_vital_signs.qmd
+        - infections.qmd
+        - tbi.qmd
+        - eyes.qmd
+        - MSK.qmd
+        - crush.qmd
+    - part: specific_populations.qmd
+      chapters: 
+        - pediatrics.qmd
+        - canine.qmd
     - references.qmd
 
 bibliography: references.bib

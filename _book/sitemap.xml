@@ -2,90 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tcmb-book.netlify.app/index.html</loc>
-    <lastmod>2023-07-02T10:55:55.410Z</lastmod>
+    <lastmod>2023-07-02T12:05:04.620Z</lastmod>
   </url>
   <url>
     <loc>https://tcmb-book.netlify.app/schema.html</loc>
-    <lastmod>2023-07-02T10:55:55.410Z</lastmod>
+    <lastmod>2023-07-02T12:05:04.625Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcmb-book.netlify.app/primary_survey.html</loc>
+    <lastmod>2023-07-02T12:05:04.628Z</lastmod>
   </url>
   <url>
     <loc>https://tcmb-book.netlify.app/safety.html</loc>
-    <lastmod>2023-07-02T10:55:55.415Z</lastmod>
+    <lastmod>2023-07-02T12:05:04.633Z</lastmod>
   </url>
   <url>
     <loc>https://tcmb-book.netlify.app/airway.html</loc>
-    <lastmod>2023-07-02T10:55:55.419Z</lastmod>
+    <lastmod>2023-07-02T12:05:04.640Z</lastmod>
   </url>
   <url>
     <loc>https://tcmb-book.netlify.app/chest.html</loc>
-    <lastmod>2023-07-02T10:55:55.424Z</lastmod>
+    <lastmod>2023-07-02T12:05:04.646Z</lastmod>
   </url>
   <url>
     <loc>https://tcmb-book.netlify.app/rdcr.html</loc>
-    <lastmod>2023-07-02T10:55:55.430Z</lastmod>
+    <lastmod>2023-07-02T12:05:04.652Z</lastmod>
   </url>
   <url>
     <loc>https://tcmb-book.netlify.app/disability_exposure.html</loc>
-    <lastmod>2023-07-02T10:55:55.432Z</lastmod>
+    <lastmod>2023-07-02T12:05:04.655Z</lastmod>
   </url>
   <url>
     <loc>https://tcmb-book.netlify.app/resucitation.html</loc>
-    <lastmod>2023-07-02T10:55:55.435Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcmb-book.netlify.app/MCE.html</loc>
-    <lastmod>2023-07-02T10:55:55.440Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcmb-book.netlify.app/loss_of_vital_signs.html</loc>
-    <lastmod>2023-07-02T10:55:55.444Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcmb-book.netlify.app/secondary_survey.html</loc>
-    <lastmod>2023-07-02T10:55:55.449Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcmb-book.netlify.app/pfc.html</loc>
-    <lastmod>2023-07-02T10:55:55.457Z</lastmod>
+    <lastmod>2023-07-02T12:05:04.659Z</lastmod>
   </url>
   <url>
     <loc>https://tcmb-book.netlify.app/pain.html</loc>
-    <lastmod>2023-07-02T10:55:55.459Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcmb-book.netlify.app/infections.html</loc>
-    <lastmod>2023-07-02T10:55:55.462Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcmb-book.netlify.app/tbi.html</loc>
-    <lastmod>2023-07-02T10:55:55.470Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcmb-book.netlify.app/eyes.html</loc>
-    <lastmod>2023-07-02T10:55:55.475Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcmb-book.netlify.app/MSK.html</loc>
-    <lastmod>2023-07-02T10:55:55.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tcmb-book.netlify.app/pediatrics.html</loc>
-    <lastmod>2023-07-02T10:55:55.484Z</lastmod>
+    <lastmod>2023-07-02T12:05:04.666Z</lastmod>
   </url>
   <url>
     <loc>https://tcmb-book.netlify.app/vascular_access.html</loc>
-    <lastmod>2023-07-02T10:55:55.489Z</lastmod>
+    <lastmod>2023-07-02T12:05:04.674Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcmb-book.netlify.app/secondary_survey.html</loc>
+    <lastmod>2023-07-02T12:05:04.679Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcmb-book.netlify.app/pfc.html</loc>
+    <lastmod>2023-07-02T12:05:04.683Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcmb-book.netlify.app/MCE.html</loc>
+    <lastmod>2023-07-02T12:05:04.690Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcmb-book.netlify.app/specific_injuries.html</loc>
+    <lastmod>2023-07-02T12:05:04.693Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcmb-book.netlify.app/loss_of_vital_signs.html</loc>
+    <lastmod>2023-07-02T12:05:04.698Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcmb-book.netlify.app/infections.html</loc>
+    <lastmod>2023-07-02T12:05:04.701Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcmb-book.netlify.app/tbi.html</loc>
+    <lastmod>2023-07-02T12:05:04.708Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcmb-book.netlify.app/eyes.html</loc>
+    <lastmod>2023-07-02T12:05:04.714Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcmb-book.netlify.app/MSK.html</loc>
+    <lastmod>2023-07-02T12:05:04.720Z</lastmod>
   </url>
   <url>
     <loc>https://tcmb-book.netlify.app/crush.html</loc>
-    <lastmod>2023-07-02T10:55:55.496Z</lastmod>
+    <lastmod>2023-07-02T12:05:04.727Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcmb-book.netlify.app/specific_populations.html</loc>
+    <lastmod>2023-07-02T12:05:04.730Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tcmb-book.netlify.app/pediatrics.html</loc>
+    <lastmod>2023-07-02T12:05:04.737Z</lastmod>
   </url>
   <url>
     <loc>https://tcmb-book.netlify.app/canine.html</loc>
-    <lastmod>2023-07-02T10:55:55.500Z</lastmod>
+    <lastmod>2023-07-02T12:05:04.741Z</lastmod>
   </url>
   <url>
     <loc>https://tcmb-book.netlify.app/references.html</loc>
-    <lastmod>2023-07-02T10:55:55.502Z</lastmod>
+    <lastmod>2023-07-02T12:05:04.744Z</lastmod>
   </url>
 </urlset>
