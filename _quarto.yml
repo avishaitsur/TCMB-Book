@@ -78,7 +78,6 @@ csl: elsevier-vancouver.csl
 crossref: 
   fig-title: תרשים
 
-
 format:
   html:
     theme: cosmo
@@ -93,3 +92,4 @@ format:
     fig-format: png
     fig-dpi: 300
     author-meta: "Avishai M. Tsur, Tomer Talmy, and Ofer Almog"
+
