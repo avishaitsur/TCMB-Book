@@ -34,12 +34,14 @@ book:
   - name: 'ד"ר תומר תלמי, סרן'
     affiliations:
       - name: חיל הרפואה, צבא ההגנה לישראל
+        orcid: 0000-0002-7440-8864
         url: https://en.wikipedia.org/wiki/Medical_Corps_(Israel)
         city: Ramat Gan
         state: Israel
   - name: 'ד"ר עפר אלמוג, סא"ל'
     affiliations:
       - name: חיל הרפואה, צבא ההגנה לישראל
+        orcid: 0000-0002-0293-681X 
         url: https://en.wikipedia.org/wiki/Medical_Corps_(Israel)
         city: Ramat Gan
         state: Israel
