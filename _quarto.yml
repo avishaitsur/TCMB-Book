@@ -31,6 +31,7 @@ book:
         url: https://eng.sheba.co.il/
         city: Ramat Gan
         state: Israel
+        
   - name: 'ד"ר תומר תלמי, סרן'
     affiliations:
       - name: חיל הרפואה, צבא ההגנה לישראל
@@ -38,6 +39,15 @@ book:
         url: https://en.wikipedia.org/wiki/Medical_Corps_(Israel)
         city: Ramat Gan
         state: Israel
+  
+  - name: 'ד"ר כול בנדור, סרן'
+    affiliations:
+      - name: חיל הרפואה, צבא ההגנה לישראל
+        orcid: 0000-0001-6966-0099
+        url: https://en.wikipedia.org/wiki/Medical_Corps_(Israel)
+        city: Ramat Gan
+        state: Israel
+  
   - name: 'ד"ר עפר אלמוג, סא"ל'
     affiliations:
       - name: חיל הרפואה, צבא ההגנה לישראל
